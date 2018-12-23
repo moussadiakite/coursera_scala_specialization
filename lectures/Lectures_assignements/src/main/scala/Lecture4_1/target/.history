@@ -1,0 +1,10 @@
+ls
+sbt compile
+compile
+run
+compile
+run
+compile
+run
+compile
+run

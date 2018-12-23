@@ -1,0 +1,349 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/functionnalprogrammingprinciplesinscala_2.12-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture4_1/target/streams/$global/dependencyPositions/$global/streams[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture4_1/target/streams/$global/dependencyPositions/$global/streams[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture4_1/target/streams/$global/update/$global[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture4_1/target/streams/$global/update/$global[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture4_1/target/streams/runtime/exportedProductJars/$global[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture4_1/target/streams/runtime/exportedProductJars/$global[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture4_1/target/streams/runtime/fullClasspathAsJars[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture4_1/target/streams/runtime/fullClasspathAsJars[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture4_1/target/streams/compile/externalDependencyClasspath/$global/streams/export[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture4_1/target/streams/compile/externalDependencyClasspath/$global/streams/export[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture4_1/target/streams/runtime/externalDependencyClasspath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture4_1/target/streams/runtime/externalDependencyClasspath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture4_1/target/streams/compile/compileIncremental/$global/streams/out[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture4_1/target/streams/compile/compileIncremental/$global/streams/out[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture4_1/target/streams/$global/ivyConfiguration[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture4_1/target/streams/$global/ivyConfiguration[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture4_1/target/streams/compile/copyResources/$global/streams/out[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture4_1/target/streams/compile/copyResources/$global/streams/out[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture4_1/target/scala-2.12/resolution-cache/default/lecture4_1_2.12/0.1.0-SNAPSHOT[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture4_1/target/scala-2.12/resolution-cache/default/lecture4_1_2.12/0.1.0-SNAPSHOT[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture4_1/target/streams/runtime/unmanagedJars[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture4_1/target/streams/runtime/unmanagedJars[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture4_1/target/scala-2.12/resolution-cache/reports/ivy-report.css[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture4_1/target/scala-2.12/resolution-cache/reports/ivy-report.css[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture4_1/target/streams/$global/update/$global/streams/out[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture4_1/target/streams/$global/update/$global/streams/out[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture4_1/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/input_dsp[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture4_1/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/input_dsp[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture4_1/target/streams/compile/compile/$global[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture4_1/target/streams/compile/compile/$global[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture4_1/target/streams/runtime/dependencyClasspathAsJars/$global/streams[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture4_1/target/streams/runtime/dependencyClasspathAsJars/$global/streams[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture4_1/target/streams/$global/ivySbt/$global[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture4_1/target/streams/$global/ivySbt/$global[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture4_1/target/streams/compile/internalDependencyClasspath/$global/streams/export[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture4_1/target/streams/compile/internalDependencyClasspath/$global/streams/export[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture4_1/target/streams/runtime[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture4_1/target/streams/runtime[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture4_1/target/scala-2.12[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture4_1/target/scala-2.12[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture4_1/target/streams/runtime/managedClasspath/$global/streams[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture4_1/target/streams/runtime/managedClasspath/$global/streams[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture4_1/target/streams/runtime/dependencyClasspathAsJars[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture4_1/target/streams/runtime/dependencyClasspathAsJars[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture2_2[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture2_2[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture4_1/target/scala-2.12/resolution-cache/reports/default-lecture4_1_2.12-compile-internal.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture4_1/target/scala-2.12/resolution-cache/reports/default-lecture4_1_2.12-compile-internal.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture4_1/target/streams/compile/packageBin/$global/streams[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture4_1/target/streams/compile/packageBin/$global/streams[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture4_1/target/streams/compile/unmanagedJars/$global[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture4_1/target/streams/compile/unmanagedJars/$global[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture4_1/target/scala-2.12/resolution-cache/reports[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture4_1/target/scala-2.12/resolution-cache/reports[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture4_1/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/output_dsp[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture4_1/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/output_dsp[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture4_1/target/streams/compile/mainClass/$global/streams/out[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture4_1/target/streams/compile/mainClass/$global/streams/out[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture4_1/idealized/scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture4_1/idealized/scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture4_1/target/scala-2.12/resolution-cache/default/lecture4_1_2.12/0.1.0-SNAPSHOT/resolved.xml.properties[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture4_1/target/scala-2.12/resolution-cache/default/lecture4_1_2.12/0.1.0-SNAPSHOT/resolved.xml.properties[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture4_1/target/streams/compile/compileIncremental/$global/streams/export[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture4_1/target/streams/compile/compileIncremental/$global/streams/export[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture4_1/target/streams/compile/compileIncremental[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture4_1/target/streams/compile/compileIncremental[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture4_1/target/streams/runtime/managedClasspath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture4_1/target/streams/runtime/managedClasspath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture3_1/Hello$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture3_1/Hello$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture4_1/target/scala-2.12/resolution-cache/default/lecture4_1_2.12/0.1.0-SNAPSHOT/resolved.xml.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture4_1/target/scala-2.12/resolution-cache/default/lecture4_1_2.12/0.1.0-SNAPSHOT/resolved.xml.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture2_1/Lecture2_1.sc[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture2_1/Lecture2_1.sc[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture4_1/target/streams/compile/compile/$global/streams[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture4_1/target/streams/compile/compile/$global/streams[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture4_1/target/streams/compile/bgRun/$global/streams[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture4_1/target/streams/compile/bgRun/$global/streams[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture4_1/target/streams/compile/mainClass[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture4_1/target/streams/compile/mainClass[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture4_1/target/streams/$global/projectDescriptors/$global/streams/out[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture4_1/target/streams/$global/projectDescriptors/$global/streams/out[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture4_1/target/streams/compile/dependencyClasspath/$global/streams[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture4_1/target/streams/compile/dependencyClasspath/$global/streams[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture4_1/target/streams/$global/ivyConfiguration/$global/streams[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture4_1/target/streams/$global/ivyConfiguration/$global/streams[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture4_1/target/streams/$global/update/$global/streams/update_cache_2.12[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture4_1/target/streams/$global/update/$global/streams/update_cache_2.12[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture4_1/target/streams/compile/packageBin/$global/streams/out[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture4_1/target/streams/compile/packageBin/$global/streams/out[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture4_1/idealized/scala/Lecture4_1.sc[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture4_1/idealized/scala/Lecture4_1.sc[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture4_1/target/scala-2.12/resolution-cache[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture4_1/target/scala-2.12/resolution-cache[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture4_1/target/scala-2.12/resolution-cache/reports/default-lecture4_1_2.12-scala-tool.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture4_1/target/scala-2.12/resolution-cache/reports/default-lecture4_1_2.12-scala-tool.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture4_1/target/scala-2.12/resolution-cache/reports/default-lecture4_1_2.12-optional.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture4_1/target/scala-2.12/resolution-cache/reports/default-lecture4_1_2.12-optional.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture4_1/target/streams/runtime/unmanagedClasspath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture4_1/target/streams/runtime/unmanagedClasspath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture4_1/target/streams/runtime/unmanagedClasspath/$global/streams/export[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture4_1/target/streams/runtime/unmanagedClasspath/$global/streams/export[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture4_1/target/streams/compile/$global/$global/discoveredMainClasses/data[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture4_1/target/streams/compile/$global/$global/discoveredMainClasses/data[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture4_1/target/streams/compile/managedClasspath/$global[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture4_1/target/streams/compile/managedClasspath/$global[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture4_1/target/streams/compile/externalDependencyClasspath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture4_1/target/streams/compile/externalDependencyClasspath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture4_1/target/.history[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture4_1/target/.history[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture4_1/target/scala-2.12/resolution-cache/reports/ivy-report.xsl[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture4_1/target/scala-2.12/resolution-cache/reports/ivy-report.xsl[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture4_1/target/streams/compile/dependencyClasspath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture4_1/target/streams/compile/dependencyClasspath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture4_1/project[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture4_1/project[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture4_1/target/streams/compile/exportedProductJars[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture4_1/target/streams/compile/exportedProductJars[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture4_1/target/streams/compile/unmanagedJars/$global/streams[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture4_1/target/streams/compile/unmanagedJars/$global/streams[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture4_1/target/streams/runtime/externalDependencyClasspath/$global/streams[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture4_1/target/streams/runtime/externalDependencyClasspath/$global/streams[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture4_1/target/streams/runtime/exportedProductJars/$global/streams/export[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture4_1/target/streams/runtime/exportedProductJars/$global/streams/export[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture4_1/idealized[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture4_1/idealized[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture4_1/target/streams/runtime/externalDependencyClasspath/$global/streams/export[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture4_1/target/streams/runtime/externalDependencyClasspath/$global/streams/export[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture4_1/target/scala-2.12/resolution-cache/reports/default-lecture4_1_2.12-pom.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture4_1/target/scala-2.12/resolution-cache/reports/default-lecture4_1_2.12-pom.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture4_1/target/streams/$global/update[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture4_1/target/streams/$global/update[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture4_1/target/scala-2.12/resolution-cache/reports/default-lecture4_1_2.12-runtime.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture4_1/target/scala-2.12/resolution-cache/reports/default-lecture4_1_2.12-runtime.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture4_1/target/streams/compile/packageBin/$global/streams/inputs[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture4_1/target/streams/compile/packageBin/$global/streams/inputs[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture4_1/target/streams/runtime/internalDependencyAsJars/$global/streams[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture4_1/target/streams/runtime/internalDependencyAsJars/$global/streams[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture4_1/target/streams/compile/externalDependencyClasspath/$global[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture4_1/target/streams/compile/externalDependencyClasspath/$global[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture1_7[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture1_7[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture4_1/target/streams/compile/bgRun/$global/streams/out[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture4_1/target/streams/compile/bgRun/$global/streams/out[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture1_7/TailRecursiveFactorial.sc[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture1_7/TailRecursiveFactorial.sc[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture4_1/target/streams/$global/update/$global/streams/update_cache_2.12/output[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture4_1/target/streams/$global/update/$global/streams/update_cache_2.12/output[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture4_1/target/streams/runtime/internalDependencyAsJars/$global[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture4_1/target/streams/runtime/internalDependencyAsJars/$global[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture4_1/target/streams/runtime/managedClasspath/$global/streams/export[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture4_1/target/streams/runtime/managedClasspath/$global/streams/export[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture4_1/target/streams/runtime/exportedProductJars/$global/streams[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture4_1/target/streams/runtime/exportedProductJars/$global/streams[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture4_1/target/streams/compile/internalDependencyClasspath/$global/streams[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture4_1/target/streams/compile/internalDependencyClasspath/$global/streams[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture4_1/target/streams/compile/unmanagedClasspath/$global/streams/export[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture4_1/target/streams/compile/unmanagedClasspath/$global/streams/export[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture4_1/target/streams/$global/update/$global/streams[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture4_1/target/streams/$global/update/$global/streams[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture4_1/target/streams/$global/$global/$global/streams[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture4_1/target/streams/$global/$global/$global/streams[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture4_1/target/scala-2.12/resolution-cache/reports/default-lecture4_1_2.12-test.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture4_1/target/scala-2.12/resolution-cache/reports/default-lecture4_1_2.12-test.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture4_1/target/streams/compile/packageBin/$global/streams/output[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture4_1/target/streams/compile/packageBin/$global/streams/output[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture4_1/target/streams/compile/unmanagedClasspath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture4_1/target/streams/compile/unmanagedClasspath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture4_1/target/scala-2.12/resolution-cache/reports/default-lecture4_1_2.12-provided.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture4_1/target/scala-2.12/resolution-cache/reports/default-lecture4_1_2.12-provided.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture4_1/target/streams/$global/$global[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture4_1/target/streams/$global/$global[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture4_1/target/streams/compile/copyResources/$global[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture4_1/target/streams/compile/copyResources/$global[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture4_1/target/streams/compile/unmanagedJars[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture4_1/target/streams/compile/unmanagedJars[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture4_1/target/scala-2.12/resolution-cache/default[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture4_1/target/scala-2.12/resolution-cache/default[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture4_1/target/streams/runtime/internalDependencyAsJars/$global/streams/export[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture4_1/target/streams/runtime/internalDependencyAsJars/$global/streams/export[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture4_1/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture4_1/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture4_1/target/streams/compile/unmanagedClasspath/$global/streams[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture4_1/target/streams/compile/unmanagedClasspath/$global/streams[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture3_1[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture3_1[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture3_3/Lecture3_3.sc[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture3_3/Lecture3_3.sc[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture4_1/target/streams/compile/dependencyClasspath/$global[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture4_1/target/streams/compile/dependencyClasspath/$global[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture4_1/target/streams/runtime/unmanagedClasspath/$global/streams[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture4_1/target/streams/runtime/unmanagedClasspath/$global/streams[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture4_1/target/streams/compile/unmanagedClasspath/$global[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture4_1/target/streams/compile/unmanagedClasspath/$global[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture1_5/NewtonSqrtMethod.sc[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture1_5/NewtonSqrtMethod.sc[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture4_1/target/streams/compile/copyResources/$global/streams/copy-resources[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture4_1/target/streams/compile/copyResources/$global/streams/copy-resources[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture4_1/target/streams[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture4_1/target/streams[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture4_1[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture4_1[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture4_1/target/streams/runtime/fullClasspathAsJars/$global/streams/export[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture4_1/target/streams/runtime/fullClasspathAsJars/$global/streams/export[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture4_1/target/streams/runtime/dependencyClasspathAsJars/$global[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture4_1/target/streams/runtime/dependencyClasspathAsJars/$global[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture4_1/target/streams/compile/managedClasspath/$global/streams/export[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture4_1/target/streams/compile/managedClasspath/$global/streams/export[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture4_1/project/target/active.json[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture4_1/project/target/active.json[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture4_1/target/streams/compile/unmanagedJars/$global/streams/export[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture4_1/target/streams/compile/unmanagedJars/$global/streams/export[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture4_1/target/streams/compile/packageBin/$global[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture4_1/target/streams/compile/packageBin/$global[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture4_1/target/streams/runtime/fullClasspathAsJars/$global[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture4_1/target/streams/runtime/fullClasspathAsJars/$global[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture4_1/target/streams/compile/mainClass/$global/streams[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture4_1/target/streams/compile/mainClass/$global/streams[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture4_1/target/streams/compile/$global/$global/discoveredMainClasses[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture4_1/target/streams/compile/$global/$global/discoveredMainClasses[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture4_1/target/streams/compile/dependencyClasspath/$global/streams/export[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture4_1/target/streams/compile/dependencyClasspath/$global/streams/export[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture4_1/target/streams/compile/compileIncremental/$global/streams[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture4_1/target/streams/compile/compileIncremental/$global/streams[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture4_1/target/streams/compile/packageBin[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture4_1/target/streams/compile/packageBin[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture4_1/target/streams/runtime/internalDependencyAsJars[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture4_1/target/streams/runtime/internalDependencyAsJars[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture4_1/target/scala-2.12/resolution-cache/reports/default-lecture4_1_2.12-compile.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture4_1/target/scala-2.12/resolution-cache/reports/default-lecture4_1_2.12-compile.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture4_1/target/streams/runtime/dependencyClasspathAsJars/$global/streams/export[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture4_1/target/streams/runtime/dependencyClasspathAsJars/$global/streams/export[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture4_1/target/streams/compile/compile/$global/streams/out[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture4_1/target/streams/compile/compile/$global/streams/out[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture4_1/target/streams/runtime/fullClasspathAsJars/$global/streams[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture4_1/target/streams/runtime/fullClasspathAsJars/$global/streams[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture4_1/target/streams/$global/$global/$global/streams/out[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture4_1/target/streams/$global/$global/$global/streams/out[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture4_1/target/streams/$global/ivySbt/$global/streams/out[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture4_1/target/streams/$global/ivySbt/$global/streams/out[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture4_1/target/streams/runtime/unmanagedClasspath/$global[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture4_1/target/streams/runtime/unmanagedClasspath/$global[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture4_1/target/streams/compile/$global[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture4_1/target/streams/compile/$global[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture4_1/target/streams/$global/ivyConfiguration/$global[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture4_1/target/streams/$global/ivyConfiguration/$global[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture4_1/target/streams/$global/projectDescriptors/$global[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture4_1/target/streams/$global/projectDescriptors/$global[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture4_1/target/streams/$global/$global/$global[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture4_1/target/streams/$global/$global/$global[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture4_1/target/streams/$global/projectDescriptors[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture4_1/target/streams/$global/projectDescriptors[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture2_1[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture2_1[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture4_1/target[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture4_1/target[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture4_1/target/streams/$global/dependencyPositions/$global[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture4_1/target/streams/$global/dependencyPositions/$global[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture4_1/project/target[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture4_1/project/target[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture4_1/target/streams/$global[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture4_1/target/streams/$global[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture4_1/target/streams/compile/copyResources[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture4_1/target/streams/compile/copyResources[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture3_1/intsets.sc[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture3_1/intsets.sc[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture4_1/target/streams/compile/bgRun/$global[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture4_1/target/streams/compile/bgRun/$global[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture4_1/target/streams/compile/compile[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture4_1/target/streams/compile/compile[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture4_1/target/streams/$global/update/$global/streams/update_cache_2.12/inputs[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture4_1/target/streams/$global/update/$global/streams/update_cache_2.12/inputs[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture4_1/target/streams/compile/mainClass/$global[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture4_1/target/streams/compile/mainClass/$global[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture4_1/target/scala-2.12/resolution-cache/reports/default-lecture4_1_2.12-runtime-internal.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture4_1/target/scala-2.12/resolution-cache/reports/default-lecture4_1_2.12-runtime-internal.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture4_1/target/streams/compile/$global/$global[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture4_1/target/streams/compile/$global/$global[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture2_5[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture2_5[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture4_1/target/streams/compile/externalDependencyClasspath/$global/streams[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture4_1/target/streams/compile/externalDependencyClasspath/$global/streams[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture3_3/nth.sc[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture3_3/nth.sc[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture3_1/Hello.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture3_1/Hello.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture4_1/target/scala-2.12/resolution-cache/default/lecture4_1_2.12[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture4_1/target/scala-2.12/resolution-cache/default/lecture4_1_2.12[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture4_1/target/streams/runtime/unmanagedJars/$global[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture4_1/target/streams/runtime/unmanagedJars/$global[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture4_1/target/streams/compile/managedClasspath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture4_1/target/streams/compile/managedClasspath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture4_1/target/streams/runtime/unmanagedJars/$global/streams[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture4_1/target/streams/runtime/unmanagedJars/$global/streams[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture4_1/target/streams/runtime/managedClasspath/$global[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture4_1/target/streams/runtime/managedClasspath/$global[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture4_1/target/streams/runtime/externalDependencyClasspath/$global[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture4_1/target/streams/runtime/externalDependencyClasspath/$global[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture4_1/target/streams/compile/exportedProductJars/$global/streams/export[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture4_1/target/streams/compile/exportedProductJars/$global/streams/export[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture4_1/target/scala-2.12/resolution-cache/reports/default-lecture4_1_2.12-plugin.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture4_1/target/scala-2.12/resolution-cache/reports/default-lecture4_1_2.12-plugin.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture4_1/target/scala-2.12/lecture4_1_2.12-0.1.0-SNAPSHOT.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture4_1/target/scala-2.12/lecture4_1_2.12-0.1.0-SNAPSHOT.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture4_1/target/streams/compile[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture4_1/target/streams/compile[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture4_1/target/streams/compile/managedClasspath/$global/streams[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture4_1/target/streams/compile/managedClasspath/$global/streams[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture4_1/target/streams/compile/compileIncremental/$global[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture4_1/target/streams/compile/compileIncremental/$global[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture1_5[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture1_5[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture2_5/Lecture2_5.sc[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture2_5/Lecture2_5.sc[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture4_1/target/streams/runtime/unmanagedJars/$global/streams/export[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture4_1/target/streams/runtime/unmanagedJars/$global/streams/export[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture4_1/target/scala-2.12/resolution-cache/reports/default-lecture4_1_2.12-test-internal.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture4_1/target/scala-2.12/resolution-cache/reports/default-lecture4_1_2.12-test-internal.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture4_1/target/streams/compile/internalDependencyClasspath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture4_1/target/streams/compile/internalDependencyClasspath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture4_1/target/streams/$global/dependencyPositions[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture4_1/target/streams/$global/dependencyPositions[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture4_1/target/streams/$global/ivySbt/$global/streams[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture4_1/target/streams/$global/ivySbt/$global/streams[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture4_1/target/streams/compile/copyResources/$global/streams[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture4_1/target/streams/compile/copyResources/$global/streams[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture4_1/target/streams/compile/exportedProductJars/$global/streams[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture4_1/target/streams/compile/exportedProductJars/$global/streams[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture4_1/target/streams/runtime/exportedProductJars[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture4_1/target/streams/runtime/exportedProductJars[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture4_1/target/streams/compile/bgRun[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture4_1/target/streams/compile/bgRun[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture4_1/target/streams/$global/ivyConfiguration/$global/streams/out[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture4_1/target/streams/$global/ivyConfiguration/$global/streams/out[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture2_2/Lecture2_2.sc[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture2_2/Lecture2_2.sc[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture4_1/target/streams/$global/ivySbt[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture4_1/target/streams/$global/ivySbt[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture4_1/target/streams/$global/projectDescriptors/$global/streams[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture4_1/target/streams/$global/projectDescriptors/$global/streams[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture3_3[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture3_3[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture4_1/target/streams/compile/exportedProductJars/$global[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture4_1/target/streams/compile/exportedProductJars/$global[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lecture4_1/target/streams/compile/internalDependencyClasspath/$global[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/moussadiakite/Google Drive/Training/Scala_EPFL/FunctionnalProgrammingPrinciplesInScala/target/scala-2.12/classes/Lecture4_1/target/streams/compile/internalDependencyClasspath/$global[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m
