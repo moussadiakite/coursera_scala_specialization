@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/FunctionnalProgrammingPrinciplesInScala.iml" filepath="$PROJECT_DIR$/.idea/modules/FunctionnalProgrammingPrinciplesInScala.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/functionnalprogrammingprinciplesinscala-build.iml" filepath="$PROJECT_DIR$/.idea/modules/functionnalprogrammingprinciplesinscala-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lectures_assignements-build.iml" filepath="$PROJECT_DIR$/.idea/modules/lectures_assignements-build.iml" />
     </modules>
   </component>
 </project>
