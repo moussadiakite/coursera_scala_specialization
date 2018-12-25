@@ -5,6 +5,6 @@ out/
 *.pages
 assignments/*/target
 assignments/*/project
-#lectures/*.pdf
+lectures/*.pdf
 lectures/Lectures_assignements/target
 lectures/Lectures_assignements/project
