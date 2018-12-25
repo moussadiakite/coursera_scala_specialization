@@ -3,3 +3,7 @@ out/
 *.class
 *.pages
 assignments/*/target
+assignments/*/project/*
+lectures/*.pdf
+lectures/Lectures_assignements/target
+lectures/Lectures_assignements/project/*

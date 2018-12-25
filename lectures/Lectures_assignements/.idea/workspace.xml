@@ -10,6 +10,7 @@
       <change afterPath="$PROJECT_DIR$/src/main/scala/Lecture5_1/Lecture5_1.sc" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/scala/Lecture5_2/Lecture5_2.sc" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/scala/Lecture5_4/Lecture5_4.sc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../assignments/objsets/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../assignments/objsets/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../assignments/objsets/project/project/target/config-classes/$11579b54046b71f968ed.cache" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../assignments/objsets/project/project/target/config-classes/$442c25d34999114a9c3d.cache" beforeDir="false" />
@@ -301,8 +302,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/scala/Lecture5_1/Lecture5_1.sc">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="361">
-              <caret line="38" column="28" selection-start-line="38" selection-start-column="28" selection-end-line="38" selection-end-column="33" />
+            <state relative-caret-position="376">
+              <caret line="39" column="30" lean-forward="true" selection-start-line="39" selection-start-column="30" selection-end-line="39" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -404,44 +405,12 @@
             <path>
               <item name="Lectures_assignements" type="b2602c69:ProjectViewProjectNode" />
               <item name="Lectures_assignements" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Lectures_assignements" type="b2602c69:ProjectViewProjectNode" />
               <item name="Lectures_assignements" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Lectures_assignements" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Lectures_assignements" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="scala" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Lectures_assignements" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Lectures_assignements" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="scala" type="462c0819:PsiDirectoryNode" />
-              <item name="Lecture5_1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Lectures_assignements" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Lectures_assignements" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="scala" type="462c0819:PsiDirectoryNode" />
-              <item name="Lecture5_2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Lectures_assignements" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Lectures_assignements" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="scala" type="462c0819:PsiDirectoryNode" />
-              <item name="Lecture5_4" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -453,7 +422,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545773816323" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545774795182" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Scala" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -557,12 +526,12 @@
       <workItem from="1544811839080" duration="12814000" />
       <workItem from="1545077543432" duration="10081000" />
       <workItem from="1545331783691" duration="20914000" />
-      <workItem from="1545672358524" duration="13210000" />
+      <workItem from="1545672358524" duration="14506000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="66683000" />
+    <option name="totallyTimeSpent" value="67979000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -575,9 +544,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="709" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27786753" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.39256865" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -615,18 +583,6 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="scala-line">
-          <url>file://$PROJECT_DIR$/src/main/scala/Lecture5_1/Lecture5_1.sc</url>
-          <line>35</line>
-          <properties />
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/scala/Functions.sc" />
@@ -747,8 +703,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/Lecture5_1/Lecture5_1.sc">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="38" column="28" selection-start-line="38" selection-start-column="28" selection-end-line="38" selection-end-column="33" />
+        <state relative-caret-position="376">
+          <caret line="39" column="30" lean-forward="true" selection-start-line="39" selection-start-column="30" selection-end-line="39" selection-end-column="30" />
         </state>
       </provider>
     </entry>
