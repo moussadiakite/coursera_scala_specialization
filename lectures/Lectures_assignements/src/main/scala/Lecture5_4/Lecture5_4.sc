@@ -29,4 +29,6 @@ object exercise{
   pack(List("a", "a", "a", "b", "c", "c", "a"))
   encode(List("a", "a", "a", "b", "c", "c", "a"))
   encode2(List("a", "a", "a", "b", "c", "c", "a"))
+
+  val result = (nums foldLeft 0) (_ + _)
 }

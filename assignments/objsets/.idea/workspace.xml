@@ -2,7 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8e47151f-ffee-455e-931d-9287e7a8b25d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../lectures/Lectures_assignements/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lectures/Lectures_assignements/src/main/scala/Lecture5_5/Lecture5_5.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lectures/Lectures_assignements/src/main/scala/Lecture5_7/Lecture5_7.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lectures/Lectures_assignements/src/main/scala/Lecture6_1/Lecture6_1.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lectures/Lectures_assignements/src/main/scala/Lecture6_2/Lecture6_2.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lectures/Lectures_assignements/src/main/scala/Lecture6_3/Lecture6_3.sc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../lectures/Lectures_assignements/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../lectures/Lectures_assignements/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lectures/Lectures_assignements/src/main/scala/Lecture5_4/Lecture5_4.sc" beforeDir="false" afterPath="$PROJECT_DIR$/../../lectures/Lectures_assignements/src/main/scala/Lecture5_4/Lecture5_4.sc" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/project/project/target/" />
@@ -59,7 +67,8 @@
         <counts>
           <entry key="project.closed" value="1" />
           <entry key="project.open.time.18" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.20" value="1" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -89,7 +98,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/scala/objsets/TweetSet.scala">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="233">
-              <caret line="143" column="45" lean-forward="true" selection-start-line="143" selection-start-column="45" selection-end-line="143" selection-end-column="45" />
+              <caret line="143" column="45" selection-start-line="143" selection-start-column="45" selection-end-line="143" selection-end-column="45" />
               <folding>
                 <element signature="e#17#56#0" expanded="true" />
               </folding>
@@ -150,8 +159,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -210,7 +220,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -300,16 +309,17 @@
       <workItem from="1545167120092" duration="11250000" />
       <workItem from="1545418449700" duration="597000" />
       <workItem from="1545671927608" duration="711000" />
+      <workItem from="1545810671295" duration="1195000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12558000" />
+    <option name="totallyTimeSpent" value="13753000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="713" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25767368" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26171243" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -324,7 +334,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Build" order="7" weight="0.32901135" />
-      <window_info anchor="bottom" id="sbt-shell-toolwindow" order="8" visible="true" weight="0.2173913" />
+      <window_info anchor="bottom" id="sbt-shell-toolwindow" order="8" weight="0.2173913" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.32901135" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
@@ -373,7 +383,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/scala/objsets/TweetSet.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="233">
-          <caret line="143" column="45" lean-forward="true" selection-start-line="143" selection-start-column="45" selection-end-line="143" selection-end-column="45" />
+          <caret line="143" column="45" selection-start-line="143" selection-start-column="45" selection-end-line="143" selection-end-column="45" />
           <folding>
             <element signature="e#17#56#0" expanded="true" />
           </folding>
