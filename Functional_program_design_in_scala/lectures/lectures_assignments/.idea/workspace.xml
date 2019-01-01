@@ -1,0 +1,895 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9955f046-0f11-4380-bfaa-c38d377a1ccf" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cours1-1.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/hydra.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_scala_library_2_12_8_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/lectures_assignments-build.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/lectures_assignments.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sbt.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.sbt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/build.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$3d108e9c9a6fff70c10a.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$553547b85329178777fa.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$bc479ae7e968b446b659.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/default/lectures_assignments-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/default/lectures_assignments-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-lectures_assignments-build-compile-internal.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-lectures_assignments-build-compile.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-lectures_assignments-build-optional.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-lectures_assignments-build-plugin.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-lectures_assignments-build-pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-lectures_assignments-build-provided.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-lectures_assignments-build-runtime-internal.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-lectures_assignments-build-runtime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-lectures_assignments-build-scala-tool.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-lectures_assignments-build-test-internal.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-lectures_assignments-build-test.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/ivy-report.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/ivy-report.xsl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/$global/$global/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/input_dsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/output_dsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/$global/ivyConfiguration/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/$global/ivySbt/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/$global/projectDescriptors/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.12/inputs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.12/output" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/$global/$global/discoveredMainClasses/data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/compile/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/compileIncremental/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/compileIncremental/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/copyResources/$global/streams/copy-resources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/copyResources/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/dependencyClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/exportedProducts/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/externalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/internalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/managedClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/unmanagedClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/unmanagedJars/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/runtime/exportedProducts/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/runtime/externalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/runtime/internalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/runtime/managedClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/runtime/unmanagedClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/runtime/unmanagedJars/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Lecture1_1/Lecture1_1.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/.history" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/Lecture1_1/Lecture1_1.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/default/lectures_assignments$sources/0.1/resolved.xml.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/default/lectures_assignments$sources/0.1/resolved.xml.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/default/lectures_assignments_2.12/0.1/resolved.xml.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/default/lectures_assignments_2.12/0.1/resolved.xml.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-lectures_assignments$sources-compile-internal.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-lectures_assignments$sources-compile.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-lectures_assignments$sources-optional.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-lectures_assignments$sources-plugin.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-lectures_assignments$sources-pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-lectures_assignments$sources-provided.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-lectures_assignments$sources-runtime-internal.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-lectures_assignments$sources-runtime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-lectures_assignments$sources-scala-tool.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-lectures_assignments$sources-test-internal.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-lectures_assignments$sources-test.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-lectures_assignments_2.12-compile-internal.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-lectures_assignments_2.12-compile.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-lectures_assignments_2.12-optional.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-lectures_assignments_2.12-plugin.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-lectures_assignments_2.12-pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-lectures_assignments_2.12-provided.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-lectures_assignments_2.12-runtime-internal.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-lectures_assignments_2.12-runtime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-lectures_assignments_2.12-scala-tool.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-lectures_assignments_2.12-test-internal.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-lectures_assignments_2.12-test.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/ivy-report.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/ivy-report.xsl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/$global/$global/dumpStructure/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/input_dsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/output_dsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/$global/ivyConfiguration/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/$global/ivySbt/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/$global/projectDescriptors/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.12/inputs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.12/output" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/$global/updateClassifiers/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/compile/externalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/compile/managedClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/compile/unmanagedClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/compile/unmanagedJars/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/runtime/externalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/runtime/managedClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/runtime/unmanagedClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/runtime/unmanagedJars/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/test/externalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/test/managedClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/test/unmanagedClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/test/unmanagedJars/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../notes.pages" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/assignments/example/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/assignments/example/.idea/hydra.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/assignments/example/.idea/libraries/sbt__junit_junit_4_10_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/assignments/example/.idea/libraries/sbt__org_hamcrest_hamcrest_core_1_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/assignments/example/.idea/libraries/sbt__org_scala_lang_modules_scala_parser_combinators_2_11_1_0_4_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/assignments/example/.idea/libraries/sbt__org_scala_lang_modules_scala_xml_2_11_1_0_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/assignments/example/.idea/libraries/sbt__org_scala_lang_scala_library_2_11_12_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/assignments/example/.idea/libraries/sbt__org_scala_lang_scala_reflect_2_11_12_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/assignments/example/.idea/libraries/sbt__org_scalatest_scalatest_2_11_2_2_4_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/assignments/example/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/assignments/example/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/assignments/example/.idea/modules/progfun1-example.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/assignments/example/.idea/modules/root-build.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/assignments/example/.idea/sbt.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/assignments/example/.idea/scala_compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/assignments/example/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/assignments/example/assignment.sbt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/assignments/example/build.sbt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/assignments/example/scalastyle/scalastyle_config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/assignments/example/src/main/scala/Main.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/assignments/example/src/main/scala/common/package.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/assignments/example/src/main/scala/example/Lists.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/assignments/example/src/test/scala/example/ListsSuite.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/assignments/forcomp/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/assignments/forcomp/.idea/hydra.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/assignments/forcomp/.idea/libraries/sbt__junit_junit_4_10_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/assignments/forcomp/.idea/libraries/sbt__org_hamcrest_hamcrest_core_1_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/assignments/forcomp/.idea/libraries/sbt__org_scala_lang_modules_scala_parser_combinators_2_11_1_0_4_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/assignments/forcomp/.idea/libraries/sbt__org_scala_lang_modules_scala_xml_2_11_1_0_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/assignments/forcomp/.idea/libraries/sbt__org_scala_lang_scala_library_2_11_12_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/assignments/forcomp/.idea/libraries/sbt__org_scala_lang_scala_reflect_2_11_12_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/assignments/forcomp/.idea/libraries/sbt__org_scalatest_scalatest_2_11_2_2_4_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/assignments/forcomp/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/assignments/forcomp/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/assignments/forcomp/.idea/modules/progfun1-forcomp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/assignments/forcomp/.idea/modules/root-build.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/assignments/forcomp/.idea/sbt.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/assignments/forcomp/.idea/scala_compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/assignments/forcomp/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/assignments/forcomp/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/assignments/forcomp/assignment.sbt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/assignments/forcomp/build.sbt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/assignments/forcomp/scalastyle/scalastyle_config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/assignments/forcomp/src/main/resources/forcomp/linuxwords.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/assignments/forcomp/src/main/scala/common/package.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/assignments/forcomp/src/main/scala/forcomp/Anagrams.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/assignments/forcomp/src/main/scala/forcomp/package.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/assignments/forcomp/src/test/scala/forcomp/AnagramsSuite.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/assignments/funsets/.idea/hydra.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/assignments/funsets/.idea/libraries/sbt__junit_junit_4_10_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/assignments/funsets/.idea/libraries/sbt__org_hamcrest_hamcrest_core_1_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/assignments/funsets/.idea/libraries/sbt__org_scala_lang_modules_scala_parser_combinators_2_11_1_0_4_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/assignments/funsets/.idea/libraries/sbt__org_scala_lang_modules_scala_xml_2_11_1_0_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/assignments/funsets/.idea/libraries/sbt__org_scala_lang_scala_library_2_11_12_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/assignments/funsets/.idea/libraries/sbt__org_scala_lang_scala_reflect_2_11_12_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/assignments/funsets/.idea/libraries/sbt__org_scalatest_scalatest_2_11_2_2_4_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/assignments/funsets/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/assignments/funsets/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/assignments/funsets/.idea/modules/progfun1-funsets.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/assignments/funsets/.idea/modules/root-build.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/assignments/funsets/.idea/sbt.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/assignments/funsets/.idea/scala_compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/assignments/funsets/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/assignments/funsets/assignment.sbt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/assignments/funsets/build.sbt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/assignments/funsets/scalastyle/scalastyle_config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/assignments/funsets/src/main/scala/common/package.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/assignments/funsets/src/main/scala/funsets/FunSets.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/assignments/funsets/src/main/scala/funsets/Main.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/assignments/funsets/src/test/scala/funsets/FunSetSuite.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/assignments/objsets/.idea/hydra.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/assignments/objsets/.idea/libraries/sbt__junit_junit_4_10_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/assignments/objsets/.idea/libraries/sbt__org_hamcrest_hamcrest_core_1_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/assignments/objsets/.idea/libraries/sbt__org_scala_lang_modules_scala_parser_combinators_2_11_1_0_4_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/assignments/objsets/.idea/libraries/sbt__org_scala_lang_modules_scala_xml_2_11_1_0_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/assignments/objsets/.idea/libraries/sbt__org_scala_lang_scala_library_2_11_12_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/assignments/objsets/.idea/libraries/sbt__org_scala_lang_scala_reflect_2_11_12_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/assignments/objsets/.idea/libraries/sbt__org_scalatest_scalatest_2_11_2_2_4_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/assignments/objsets/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/assignments/objsets/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/assignments/objsets/.idea/modules/progfun1-objsets.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/assignments/objsets/.idea/modules/root-build.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/assignments/objsets/.idea/sbt.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/assignments/objsets/.idea/scala_compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/assignments/objsets/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/assignments/objsets/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/assignments/objsets/assignment.sbt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/assignments/objsets/build.sbt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/assignments/objsets/scalastyle/scalastyle_config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/assignments/objsets/src/main/scala/common/package.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/assignments/objsets/src/main/scala/objsets/TweetData.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/assignments/objsets/src/main/scala/objsets/TweetReader.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/assignments/objsets/src/main/scala/objsets/TweetSet.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/assignments/objsets/src/test/scala/objsets/TweetSetSuite.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/assignments/patmat/.idea/hydra.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/assignments/patmat/.idea/libraries/sbt__junit_junit_4_10_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/assignments/patmat/.idea/libraries/sbt__org_hamcrest_hamcrest_core_1_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/assignments/patmat/.idea/libraries/sbt__org_scala_lang_modules_scala_parser_combinators_2_11_1_0_4_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/assignments/patmat/.idea/libraries/sbt__org_scala_lang_modules_scala_xml_2_11_1_0_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/assignments/patmat/.idea/libraries/sbt__org_scala_lang_scala_library_2_11_12_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/assignments/patmat/.idea/libraries/sbt__org_scala_lang_scala_reflect_2_11_12_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/assignments/patmat/.idea/libraries/sbt__org_scalatest_scalatest_2_11_2_2_4_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/assignments/patmat/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/assignments/patmat/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/assignments/patmat/.idea/modules/progfun1-patmat.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/assignments/patmat/.idea/modules/root-build.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/assignments/patmat/.idea/sbt.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/assignments/patmat/.idea/scala_compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/assignments/patmat/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/assignments/patmat/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/assignments/patmat/assignment.sbt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/assignments/patmat/build.sbt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/assignments/patmat/scalastyle/scalastyle_config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/assignments/patmat/src/main/scala/common/package.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/assignments/patmat/src/main/scala/patmat/Huffman.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/assignments/patmat/src/test/scala/patmat/HuffmanSuite.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/assignments/recfun/.idea/hydra.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/assignments/recfun/.idea/libraries/sbt__junit_junit_4_10_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/assignments/recfun/.idea/libraries/sbt__org_hamcrest_hamcrest_core_1_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/assignments/recfun/.idea/libraries/sbt__org_scala_lang_modules_scala_parser_combinators_2_11_1_0_4_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/assignments/recfun/.idea/libraries/sbt__org_scala_lang_modules_scala_xml_2_11_1_0_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/assignments/recfun/.idea/libraries/sbt__org_scala_lang_scala_library_2_11_12_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/assignments/recfun/.idea/libraries/sbt__org_scala_lang_scala_reflect_2_11_12_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/assignments/recfun/.idea/libraries/sbt__org_scalatest_scalatest_2_11_2_2_4_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/assignments/recfun/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/assignments/recfun/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/assignments/recfun/.idea/modules/progfun1-recfun.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/assignments/recfun/.idea/modules/root-build.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/assignments/recfun/.idea/sbt.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/assignments/recfun/.idea/scala_compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/assignments/recfun/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/assignments/recfun/assignment.sbt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/assignments/recfun/build.sbt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/assignments/recfun/scalastyle/scalastyle_config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/assignments/recfun/src/main/scala/common/package.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/assignments/recfun/src/main/scala/recfun/Main.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/assignments/recfun/src/test/scala/recfun/BalanceSuite.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/assignments/recfun/src/test/scala/recfun/CountChangeSuite.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/assignments/recfun/src/test/scala/recfun/PascalSuite.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/cheatsheet.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/.idea/dictionaries/moussadiakite.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/.idea/hydra.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/.idea/libraries/sbt__org_scala_lang_scala_library_2_12_8_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/.idea/modules/FunctionnalProgrammingPrinciplesInScala.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/.idea/modules/lectures_assignements-build.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/.idea/sbt.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/.idea/scala_compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/.idea/scala_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/build.sbt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/project/build.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/project/target/config-classes/$46649d1cf6aa238019fe.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/project/target/config-classes/$4d0068282fa0c893f55d.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/project/target/config-classes/$583625f41797a0766e44.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/project/target/scala-2.12/sbt-1.0/resolution-cache/default/functionnalprogrammingprinciplesinscala-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/project/target/scala-2.12/sbt-1.0/resolution-cache/default/functionnalprogrammingprinciplesinscala-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/project/target/scala-2.12/sbt-1.0/resolution-cache/default/lectures_assignements-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/project/target/scala-2.12/sbt-1.0/resolution-cache/default/lectures_assignements-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-functionnalprogrammingprinciplesinscala-build-compile-internal.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-functionnalprogrammingprinciplesinscala-build-compile.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-functionnalprogrammingprinciplesinscala-build-optional.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-functionnalprogrammingprinciplesinscala-build-plugin.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-functionnalprogrammingprinciplesinscala-build-pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-functionnalprogrammingprinciplesinscala-build-provided.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-functionnalprogrammingprinciplesinscala-build-runtime-internal.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-functionnalprogrammingprinciplesinscala-build-runtime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-functionnalprogrammingprinciplesinscala-build-scala-tool.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-functionnalprogrammingprinciplesinscala-build-test-internal.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-functionnalprogrammingprinciplesinscala-build-test.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-lectures_assignements-build-compile-internal.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-lectures_assignements-build-compile.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-lectures_assignements-build-optional.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-lectures_assignements-build-plugin.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-lectures_assignements-build-pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-lectures_assignements-build-provided.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-lectures_assignements-build-runtime-internal.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-lectures_assignements-build-runtime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-lectures_assignements-build-scala-tool.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-lectures_assignements-build-test-internal.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-lectures_assignements-build-test.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/ivy-report.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/ivy-report.xsl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/project/target/streams/$global/$global/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/input_dsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/output_dsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/project/target/streams/$global/ivyConfiguration/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/project/target/streams/$global/ivySbt/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/project/target/streams/$global/projectDescriptors/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/project/target/streams/$global/update/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/project/target/streams/$global/update/$global/streams/update_cache_2.12/inputs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/project/target/streams/$global/update/$global/streams/update_cache_2.12/output" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/project/target/streams/compile/$global/$global/discoveredMainClasses/data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/project/target/streams/compile/compile/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/project/target/streams/compile/compileIncremental/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/project/target/streams/compile/compileIncremental/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/project/target/streams/compile/copyResources/$global/streams/copy-resources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/project/target/streams/compile/copyResources/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/project/target/streams/compile/dependencyClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/project/target/streams/compile/exportedProducts/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/project/target/streams/compile/externalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/project/target/streams/compile/internalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/project/target/streams/compile/managedClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/project/target/streams/compile/unmanagedClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/project/target/streams/compile/unmanagedJars/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/project/target/streams/runtime/dependencyClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/project/target/streams/runtime/exportedProducts/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/project/target/streams/runtime/externalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/project/target/streams/runtime/fullClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/project/target/streams/runtime/internalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/project/target/streams/runtime/managedClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/project/target/streams/runtime/unmanagedClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/project/target/streams/runtime/unmanagedJars/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/src/main/scala/Lecture1_5/NewtonSqrtMethod.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/src/main/scala/Lecture1_7/TailRecursiveFactorial.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/src/main/scala/Lecture2_1/Lecture2_1.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/src/main/scala/Lecture2_2/Lecture2_2.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/src/main/scala/Lecture2_5/Lecture2_5.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/src/main/scala/Lecture3_1/intsets.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/src/main/scala/Lecture3_3/Lecture3_3.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/src/main/scala/Lecture3_3/nth.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/src/main/scala/Lecture4_1/Lecture4_1.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/src/main/scala/Lecture4_1/target/.history" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/src/main/scala/Lecture4_2/Lecture4_2.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/src/main/scala/Lecture4_5/Lecture4_5.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/src/main/scala/Lecture4_6/Lecture4_6.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/src/main/scala/Lecture4_7/Lecture4_7.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/src/main/scala/Lecture5_1/Lecture5_1.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/src/main/scala/Lecture5_2/Lecture5_2.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/src/main/scala/Lecture5_4/Lecture5_4.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/src/main/scala/Lecture5_5/Lecture5_5.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/src/main/scala/Lecture5_7/Lecture5_7.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/src/main/scala/Lecture6_1/Lecture6_1.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/src/main/scala/Lecture6_2/Lecture6_2.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/src/main/scala/Lecture6_3/Lecture6_3.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/src/main/scala/Lecture6_4/Lecture6_4.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/src/main/scala/Lecture6_5/Lecture6_5.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/.history" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/scala-2.12/classes/Lecture1_5/NewtonSqrtMethod.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/scala-2.12/classes/Lecture1_7/TailRecursiveFactorial.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/scala-2.12/classes/Lecture2_1/Lecture2_1.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/scala-2.12/classes/Lecture2_2/Lecture2_2.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/scala-2.12/classes/Lecture2_5/Lecture2_5.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/scala-2.12/classes/Lecture3_1/intsets.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/scala-2.12/classes/Lecture3_3/Lecture3_3.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/scala-2.12/classes/Lecture3_3/nth.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/scala-2.12/classes/Lecture4_1/Lecture4_1.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/scala-2.12/classes/Lecture4_1/target/.history" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/scala-2.12/classes/Lecture4_2/Lecture4_2.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/scala-2.12/classes/Lecture4_5/Lecture4_5.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/scala-2.12/classes/Lecture4_6/Lecture4_6.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/scala-2.12/classes/Lecture4_7/Lecture4_7.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/scala-2.12/classes/Lecture5_1/Lecture5_1.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/scala-2.12/classes/Lecture5_2/Lecture5_2.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/scala-2.12/classes/Lecture5_4/Lecture5_4.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/scala-2.12/classes/Lecture5_5/Lecture5_5.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/scala-2.12/classes/Lecture5_7/Lecture5_7.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/scala-2.12/classes/Lecture6_1/Lecture6_1.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/scala-2.12/classes/Lecture6_2/Lecture6_2.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/scala-2.12/classes/Lecture6_3/Lecture6_3.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/scala-2.12/classes/Lecture6_4/Lecture6_4.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/scala-2.12/classes/Lecture6_5/Lecture6_5.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/scala-2.12/classes/main/scala/Lecture1_5/NewtonSqrtMethod.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/scala-2.12/classes/main/scala/Lecture1_7/TailRecursiveFactorial.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/scala-2.12/classes/main/scala/Lecture2_1/Lecture2_1.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/scala-2.12/classes/main/scala/Lecture2_2/Lecture2_2.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/scala-2.12/classes/main/scala/Lecture2_5/Lecture2_5.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/scala-2.12/classes/main/scala/Lecture3_1/intsets.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/scala-2.12/classes/main/scala/Lecture3_3/Lecture3_3.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/scala-2.12/classes/main/scala/Lecture3_3/nth.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/scala-2.12/classes/main/scala/Lecture4_1/Lecture4_1.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/scala-2.12/classes/main/scala/Lecture4_1/target/.history" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/scala-2.12/classes/main/scala/Lecture4_2/Lecture4_2.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/scala-2.12/classes/main/scala/Lecture4_5/Lecture4_5.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/scala-2.12/classes/main/scala/Lecture4_6/Lecture4_6.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/scala-2.12/classes/main/scala/Lecture4_7/Lecture4_7.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/scala-2.12/classes/main/scala/Lecture5_1/Lecture5_1.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/scala-2.12/classes/main/scala/Lecture5_2/Lecture5_2.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/scala-2.12/classes/main/scala/Lecture5_4/Lecture5_4.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/scala-2.12/classes/main/scala/Lecture5_5/Lecture5_5.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/scala-2.12/classes/main/scala/Lecture5_7/Lecture5_7.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/scala-2.12/classes/main/scala/Lecture6_1/Lecture6_1.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/scala-2.12/classes/main/scala/Lecture6_2/Lecture6_2.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/scala-2.12/classes/main/scala/Lecture6_3/Lecture6_3.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/scala-2.12/classes/main/scala/Lecture6_4/Lecture6_4.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/scala-2.12/classes/main/scala/Lecture6_5/Lecture6_5.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/scala-2.12/functionnalprogrammingprinciplesinscala_2.12-0.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/scala-2.12/resolution-cache/default/functionnalprogrammingprinciplesinscala$sbt_2.12/0.1/resolved.xml.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/scala-2.12/resolution-cache/default/functionnalprogrammingprinciplesinscala$sbt_2.12/0.1/resolved.xml.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/scala-2.12/resolution-cache/default/functionnalprogrammingprinciplesinscala$sources/0.1/resolved.xml.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/scala-2.12/resolution-cache/default/functionnalprogrammingprinciplesinscala$sources/0.1/resolved.xml.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/scala-2.12/resolution-cache/default/functionnalprogrammingprinciplesinscala$sources_2.12/0.1/resolved.xml.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/scala-2.12/resolution-cache/default/functionnalprogrammingprinciplesinscala$sources_2.12/0.1/resolved.xml.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/scala-2.12/resolution-cache/default/functionnalprogrammingprinciplesinscala_2.12/0.1/resolved.xml.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/scala-2.12/resolution-cache/default/functionnalprogrammingprinciplesinscala_2.12/0.1/resolved.xml.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/scala-2.12/resolution-cache/functionnalprogrammingprinciplesinscala/functionnalprogrammingprinciplesinscala$sbt_2.12/0.1/resolved.xml.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/scala-2.12/resolution-cache/functionnalprogrammingprinciplesinscala/functionnalprogrammingprinciplesinscala$sbt_2.12/0.1/resolved.xml.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/scala-2.12/resolution-cache/functionnalprogrammingprinciplesinscala/functionnalprogrammingprinciplesinscala$sources/0.1/resolved.xml.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/scala-2.12/resolution-cache/functionnalprogrammingprinciplesinscala/functionnalprogrammingprinciplesinscala$sources/0.1/resolved.xml.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/scala-2.12/resolution-cache/functionnalprogrammingprinciplesinscala/functionnalprogrammingprinciplesinscala$sources_2.12/0.1/resolved.xml.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/scala-2.12/resolution-cache/functionnalprogrammingprinciplesinscala/functionnalprogrammingprinciplesinscala$sources_2.12/0.1/resolved.xml.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/scala-2.12/resolution-cache/functionnalprogrammingprinciplesinscala/functionnalprogrammingprinciplesinscala_2.12/0.1/resolved.xml.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/scala-2.12/resolution-cache/functionnalprogrammingprinciplesinscala/functionnalprogrammingprinciplesinscala_2.12/0.1/resolved.xml.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/scala-2.12/resolution-cache/org.scala-sbt.temp/temp-module-98ec89c315ed408f615fff2c4774286d17323b01/1.2.5/resolved.xml.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/scala-2.12/resolution-cache/org.scala-sbt.temp/temp-module-98ec89c315ed408f615fff2c4774286d17323b01/1.2.5/resolved.xml.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/scala-2.12/resolution-cache/reports/default-functionnalprogrammingprinciplesinscala$sbt_2.12-compile.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/scala-2.12/resolution-cache/reports/default-functionnalprogrammingprinciplesinscala$sbt_2.12-optional.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/scala-2.12/resolution-cache/reports/default-functionnalprogrammingprinciplesinscala$sbt_2.12-provided.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/scala-2.12/resolution-cache/reports/default-functionnalprogrammingprinciplesinscala$sbt_2.12-runtime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/scala-2.12/resolution-cache/reports/default-functionnalprogrammingprinciplesinscala$sbt_2.12-test.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/scala-2.12/resolution-cache/reports/default-functionnalprogrammingprinciplesinscala$sources-compile-internal.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/scala-2.12/resolution-cache/reports/default-functionnalprogrammingprinciplesinscala$sources-compile.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/scala-2.12/resolution-cache/reports/default-functionnalprogrammingprinciplesinscala$sources-optional.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/scala-2.12/resolution-cache/reports/default-functionnalprogrammingprinciplesinscala$sources-plugin.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/scala-2.12/resolution-cache/reports/default-functionnalprogrammingprinciplesinscala$sources-pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/scala-2.12/resolution-cache/reports/default-functionnalprogrammingprinciplesinscala$sources-provided.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/scala-2.12/resolution-cache/reports/default-functionnalprogrammingprinciplesinscala$sources-runtime-internal.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/scala-2.12/resolution-cache/reports/default-functionnalprogrammingprinciplesinscala$sources-runtime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/scala-2.12/resolution-cache/reports/default-functionnalprogrammingprinciplesinscala$sources-scala-tool.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/scala-2.12/resolution-cache/reports/default-functionnalprogrammingprinciplesinscala$sources-test-internal.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/scala-2.12/resolution-cache/reports/default-functionnalprogrammingprinciplesinscala$sources-test.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/scala-2.12/resolution-cache/reports/default-functionnalprogrammingprinciplesinscala$sources_2.12-compile.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/scala-2.12/resolution-cache/reports/default-functionnalprogrammingprinciplesinscala$sources_2.12-default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/scala-2.12/resolution-cache/reports/default-functionnalprogrammingprinciplesinscala$sources_2.12-optional.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/scala-2.12/resolution-cache/reports/default-functionnalprogrammingprinciplesinscala$sources_2.12-provided.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/scala-2.12/resolution-cache/reports/default-functionnalprogrammingprinciplesinscala$sources_2.12-runtime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/scala-2.12/resolution-cache/reports/default-functionnalprogrammingprinciplesinscala$sources_2.12-test.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/scala-2.12/resolution-cache/reports/default-functionnalprogrammingprinciplesinscala_2.12-compile-internal.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/scala-2.12/resolution-cache/reports/default-functionnalprogrammingprinciplesinscala_2.12-compile.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/scala-2.12/resolution-cache/reports/default-functionnalprogrammingprinciplesinscala_2.12-optional.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/scala-2.12/resolution-cache/reports/default-functionnalprogrammingprinciplesinscala_2.12-plugin.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/scala-2.12/resolution-cache/reports/default-functionnalprogrammingprinciplesinscala_2.12-pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/scala-2.12/resolution-cache/reports/default-functionnalprogrammingprinciplesinscala_2.12-provided.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/scala-2.12/resolution-cache/reports/default-functionnalprogrammingprinciplesinscala_2.12-runtime-internal.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/scala-2.12/resolution-cache/reports/default-functionnalprogrammingprinciplesinscala_2.12-runtime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/scala-2.12/resolution-cache/reports/default-functionnalprogrammingprinciplesinscala_2.12-scala-tool.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/scala-2.12/resolution-cache/reports/default-functionnalprogrammingprinciplesinscala_2.12-test-internal.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/scala-2.12/resolution-cache/reports/default-functionnalprogrammingprinciplesinscala_2.12-test.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/scala-2.12/resolution-cache/reports/functionnalprogrammingprinciplesinscala-functionnalprogrammingprinciplesinscala$sbt_2.12-compile.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/scala-2.12/resolution-cache/reports/functionnalprogrammingprinciplesinscala-functionnalprogrammingprinciplesinscala$sbt_2.12-optional.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/scala-2.12/resolution-cache/reports/functionnalprogrammingprinciplesinscala-functionnalprogrammingprinciplesinscala$sbt_2.12-provided.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/scala-2.12/resolution-cache/reports/functionnalprogrammingprinciplesinscala-functionnalprogrammingprinciplesinscala$sbt_2.12-runtime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/scala-2.12/resolution-cache/reports/functionnalprogrammingprinciplesinscala-functionnalprogrammingprinciplesinscala$sbt_2.12-test.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/scala-2.12/resolution-cache/reports/functionnalprogrammingprinciplesinscala-functionnalprogrammingprinciplesinscala$sources-compile-internal.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/scala-2.12/resolution-cache/reports/functionnalprogrammingprinciplesinscala-functionnalprogrammingprinciplesinscala$sources-compile.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/scala-2.12/resolution-cache/reports/functionnalprogrammingprinciplesinscala-functionnalprogrammingprinciplesinscala$sources-optional.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/scala-2.12/resolution-cache/reports/functionnalprogrammingprinciplesinscala-functionnalprogrammingprinciplesinscala$sources-plugin.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/scala-2.12/resolution-cache/reports/functionnalprogrammingprinciplesinscala-functionnalprogrammingprinciplesinscala$sources-pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/scala-2.12/resolution-cache/reports/functionnalprogrammingprinciplesinscala-functionnalprogrammingprinciplesinscala$sources-provided.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/scala-2.12/resolution-cache/reports/functionnalprogrammingprinciplesinscala-functionnalprogrammingprinciplesinscala$sources-runtime-internal.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/scala-2.12/resolution-cache/reports/functionnalprogrammingprinciplesinscala-functionnalprogrammingprinciplesinscala$sources-runtime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/scala-2.12/resolution-cache/reports/functionnalprogrammingprinciplesinscala-functionnalprogrammingprinciplesinscala$sources-scala-tool.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/scala-2.12/resolution-cache/reports/functionnalprogrammingprinciplesinscala-functionnalprogrammingprinciplesinscala$sources-test-internal.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/scala-2.12/resolution-cache/reports/functionnalprogrammingprinciplesinscala-functionnalprogrammingprinciplesinscala$sources-test.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/scala-2.12/resolution-cache/reports/functionnalprogrammingprinciplesinscala-functionnalprogrammingprinciplesinscala$sources_2.12-compile.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/scala-2.12/resolution-cache/reports/functionnalprogrammingprinciplesinscala-functionnalprogrammingprinciplesinscala$sources_2.12-default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/scala-2.12/resolution-cache/reports/functionnalprogrammingprinciplesinscala-functionnalprogrammingprinciplesinscala$sources_2.12-optional.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/scala-2.12/resolution-cache/reports/functionnalprogrammingprinciplesinscala-functionnalprogrammingprinciplesinscala$sources_2.12-provided.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/scala-2.12/resolution-cache/reports/functionnalprogrammingprinciplesinscala-functionnalprogrammingprinciplesinscala$sources_2.12-runtime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/scala-2.12/resolution-cache/reports/functionnalprogrammingprinciplesinscala-functionnalprogrammingprinciplesinscala$sources_2.12-test.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/scala-2.12/resolution-cache/reports/functionnalprogrammingprinciplesinscala-functionnalprogrammingprinciplesinscala_2.12-compile-internal.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/scala-2.12/resolution-cache/reports/functionnalprogrammingprinciplesinscala-functionnalprogrammingprinciplesinscala_2.12-compile.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/scala-2.12/resolution-cache/reports/functionnalprogrammingprinciplesinscala-functionnalprogrammingprinciplesinscala_2.12-optional.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/scala-2.12/resolution-cache/reports/functionnalprogrammingprinciplesinscala-functionnalprogrammingprinciplesinscala_2.12-plugin.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/scala-2.12/resolution-cache/reports/functionnalprogrammingprinciplesinscala-functionnalprogrammingprinciplesinscala_2.12-pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/scala-2.12/resolution-cache/reports/functionnalprogrammingprinciplesinscala-functionnalprogrammingprinciplesinscala_2.12-provided.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/scala-2.12/resolution-cache/reports/functionnalprogrammingprinciplesinscala-functionnalprogrammingprinciplesinscala_2.12-runtime-internal.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/scala-2.12/resolution-cache/reports/functionnalprogrammingprinciplesinscala-functionnalprogrammingprinciplesinscala_2.12-runtime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/scala-2.12/resolution-cache/reports/functionnalprogrammingprinciplesinscala-functionnalprogrammingprinciplesinscala_2.12-scala-tool.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/scala-2.12/resolution-cache/reports/functionnalprogrammingprinciplesinscala-functionnalprogrammingprinciplesinscala_2.12-test-internal.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/scala-2.12/resolution-cache/reports/functionnalprogrammingprinciplesinscala-functionnalprogrammingprinciplesinscala_2.12-test.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/scala-2.12/resolution-cache/reports/ivy-report.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/scala-2.12/resolution-cache/reports/ivy-report.xsl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/scala-2.12/resolution-cache/reports/org.scala-sbt.temp-temp-module-98ec89c315ed408f615fff2c4774286d17323b01-compile.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/scala-2.12/resolution-cache/reports/org.scala-sbt.temp-temp-module-98ec89c315ed408f615fff2c4774286d17323b01-optional.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/scala-2.12/resolution-cache/reports/org.scala-sbt.temp-temp-module-98ec89c315ed408f615fff2c4774286d17323b01-provided.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/scala-2.12/resolution-cache/reports/org.scala-sbt.temp-temp-module-98ec89c315ed408f615fff2c4774286d17323b01-runtime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/scala-2.12/resolution-cache/reports/org.scala-sbt.temp-temp-module-98ec89c315ed408f615fff2c4774286d17323b01-test.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/streams/$global/$global/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/streams/$global/$global/dumpStructure/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/streams/$global/console/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/input_dsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/output_dsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/streams/$global/ivyConfiguration/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/streams/$global/ivySbt/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/streams/$global/projectDescriptors/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/streams/$global/update/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/streams/$global/update/$global/streams/update_cache_2.12/inputs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/streams/$global/update/$global/streams/update_cache_2.12/output" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/streams/$global/updateClassifiers/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/streams/$global/updateSbtClassifiers/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/streams/compile/$global/$global/discoveredMainClasses/data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/streams/compile/compile/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/streams/compile/compileIncSetup/$global/streams/inc_compile_2.12.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/streams/compile/compileIncremental/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/streams/compile/compileIncremental/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/streams/compile/console/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/streams/compile/console/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/streams/compile/copyResources/$global/streams/copy-resources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/streams/compile/copyResources/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/streams/compile/dependencyClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/streams/compile/exportedProductJars/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/streams/compile/exportedProducts/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/streams/compile/externalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/streams/compile/fullClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/streams/compile/internalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/streams/compile/mainClass/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/streams/compile/managedClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/streams/compile/packageBin/$global/streams/inputs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/streams/compile/packageBin/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/streams/compile/packageBin/$global/streams/output" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/streams/compile/unmanagedClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/streams/compile/unmanagedJars/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/streams/runtime/dependencyClasspathAsJars/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/streams/runtime/exportedProductJars/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/streams/runtime/externalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/streams/runtime/fullClasspathAsJars/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/streams/runtime/internalDependencyAsJars/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/streams/runtime/managedClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/streams/runtime/unmanagedClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/streams/runtime/unmanagedJars/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/streams/test/externalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/streams/test/managedClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/streams/test/unmanagedClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional programming in scala/lectures/lectures_assignments/target/streams/test/unmanagedJars/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.gitignore" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/project/project/target/" />
+    <ignored path="$PROJECT_DIR$/project/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1775828143">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="sc" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Scala" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="sc" value="1229" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Scala" value="1229" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="1049148066">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="sc" value="105" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Scala" value="105" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/Lecture1_1/Lecture1_1.sc">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="48" column="12" selection-start-line="48" selection-start-column="12" selection-end-line="48" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Scala Worksheet" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/scala/Lecture1_1/Lecture1_1.sc" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="709" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="lectures_assignments" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lectures_assignments" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lectures_assignments" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lectures_assignments" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lectures_assignments" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lectures_assignments" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lectures_assignments" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lectures_assignments" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lectures_assignments" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lectures_assignments" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="Lecture1_1" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546338641479" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.folding" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="lectures_assignments" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="lectures_assignments [file:/Users/moussadiakite/Google%20Drive/Training/coursera_scala_specialization/Functionnal%20program%20design%20in%20scala/lectures/lectures_assignments/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="lectures_assignments-build [file:/Users/moussadiakite/Google%20Drive/Training/coursera_scala_specialization/Functionnal%20program%20design%20in%20scala/lectures/lectures_assignments/]" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="3092672270000" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="3212004937" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="2567920773" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../../../../Scala_EPFL/example" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../Scala_EPFL/funsets" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../Scala_EPFL/objsets" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../Scala_EPFL/patmat" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../Scala_EPFL/recfun" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$" value="RE_IMPORT" />
+        <entry key="$PROJECT_DIR$/../../../assignments/forcomp" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9955f046-0f11-4380-bfaa-c38d377a1ccf" name="Default Changelist" comment="" />
+      <created>1546336135265</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1546336135265</updated>
+      <workItem from="1546336136952" duration="2496000" />
+      <workItem from="1546339261908" duration="2354000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="4850000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1280" height="715" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2536349" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Build" order="7" visible="true" weight="0.32744783" />
+      <window_info anchor="bottom" id="sbt-shell-toolwindow" order="8" weight="0.32905295" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32744783" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="13" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="sbt" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Maven Projects" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/Lecture1_1/Lecture1_1.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="48" column="12" selection-start-line="48" selection-start-column="12" selection-end-line="48" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>10 (1)</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
