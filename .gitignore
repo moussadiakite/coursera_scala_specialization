@@ -2,9 +2,9 @@
 *~
 out/
 *.class
-*.pages
-assignments/*/target
-assignments/*/project
-lectures/*.pdf
-lectures/Lectures_assignements/target
-lectures/Lectures_assignements/project
+*/*.pages
+*/assignments/*/target/**
+*/assignments/*/project/**
+*/lectures/*.pdf
+*/lectures/lectures_assignments/target/**
+*/lectures/lectures_assignments/project/**
