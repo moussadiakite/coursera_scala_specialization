@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9955f046-0f11-4380-bfaa-c38d377a1ccf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../assignments/example/.idea/hydra.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../assignments/example/.idea/libraries/sbt__junit_junit_4_10_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../assignments/example/.idea/libraries/sbt__org_hamcrest_hamcrest_core_1_1_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../assignments/example/.idea/libraries/sbt__org_scala_lang_modules_scala_parser_combinators_2_11_1_0_2_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../assignments/example/.idea/libraries/sbt__org_scala_lang_modules_scala_xml_2_11_1_0_2_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../assignments/example/.idea/libraries/sbt__org_scala_lang_scala_library_2_11_12_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../assignments/example/.idea/libraries/sbt__org_scala_lang_scala_reflect_2_11_12_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../assignments/example/.idea/libraries/sbt__org_scala_sbt_test_interface_1_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../assignments/example/.idea/libraries/sbt__org_scalacheck_scalacheck_2_11_1_12_1_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../assignments/example/.idea/libraries/sbt__org_scalatest_scalatest_2_11_2_2_4_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../assignments/example/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../assignments/example/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../assignments/example/.idea/modules/progfun2-example.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../assignments/example/.idea/modules/root-build.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../assignments/example/.idea/sbt.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../assignments/example/.idea/scala_compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../assignments/example/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../assignments/example/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="10d9642b-d0fe-436b-af2e-56a5cb03422d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/hydra.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__junit_junit_4_10_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_hamcrest_hamcrest_core_1_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_modules_scala_parser_combinators_2_11_1_0_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_modules_scala_xml_2_11_1_0_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_scala_library_2_11_12_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_scala_reflect_2_11_12_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_sbt_test_interface_1_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scalacheck_scalacheck_2_11_1_12_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scalatest_scalatest_2_11_2_2_4_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/progfun2-example.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/root-build.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sbt.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../Functional_programming_in_scala/assignments/example/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/lectures_assignments-build.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/lectures_assignments-build.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/lectures_assignments.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/lectures_assignments.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sbt.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sbt.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/Lecture1_1/Lecture1_1.sc" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/recap_functions_and_pattern_matching/recap_functions_and_pattern_matching.sc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lectures/lectures_assignments/.idea/modules/lectures_assignments-build.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../lectures/lectures_assignments/.idea/modules/lectures_assignments-build.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lectures/lectures_assignments/.idea/modules/lectures_assignments.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../lectures/lectures_assignments/.idea/modules/lectures_assignments.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lectures/lectures_assignments/.idea/sbt.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../lectures/lectures_assignments/.idea/sbt.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lectures/lectures_assignments/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../lectures/lectures_assignments/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lectures/lectures_assignments/src/main/scala/Lecture1_1/Lecture1_1.sc" beforeDir="false" afterPath="$PROJECT_DIR$/../../lectures/lectures_assignments/src/main/scala/recap_functions_and_pattern_matching/recap_functions_and_pattern_matching.sc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../Functional_programming_in_scala/assignments/example/.idea/modules/progfun1-example.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Functional_programming_in_scala/assignments/example/.idea/modules/progfun1-example.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../Functional_programming_in_scala/assignments/example/.idea/modules/root-build.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Functional_programming_in_scala/assignments/example/.idea/modules/root-build.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../Functional_programming_in_scala/assignments/example/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Functional_programming_in_scala/assignments/example/.idea/workspace.xml" afterDir="false" />
@@ -37,7 +37,6 @@
       <change beforePath="$PROJECT_DIR$/../../../Functional_programming_in_scala/assignments/forcomp/src/main/scala/forcomp/Anagrams.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Functional_programming_in_scala/assignments/forcomp/src/main/scala/forcomp/Anagrams.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../Functional_programming_in_scala/assignments/forcomp/src/test/scala/forcomp/AnagramsSuite.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Functional_programming_in_scala/assignments/forcomp/src/test/scala/forcomp/AnagramsSuite.scala" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/project/project/target/" />
     <ignored path="$PROJECT_DIR$/project/target/" />
@@ -56,72 +55,16 @@
     </projectState>
   </component>
   <component name="FUSProjectUsageTrigger">
-    <session id="-1775828143">
+    <session id="-71267349">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.3" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="sc" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="Scala" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="sc" value="1229" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="Scala" value="1229" />
-        </counts>
-      </usages-collector>
-    </session>
-    <session id="1049148066">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.open.time.4" value="1" />
-          <entry key="project.opened" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="sc" value="105" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="Scala" value="105" />
-        </counts>
-      </usages-collector>
-    </session>
-    <session id="-1621350386">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.open.time.1" value="1" />
-          <entry key="project.opened" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="sc" value="2093" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="Scala" value="2093" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="sc" value="2" />
+          <entry key="scala" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
@@ -129,45 +72,41 @@
           <entry key="Scala" value="2" />
         </counts>
       </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="sbtShell" value="21" />
+          <entry key="scala" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Scala" value="2" />
+          <entry key="sbtShell" value="21" />
+        </counts>
+      </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/recap_functions_and_pattern_matching/recap_functions_and_pattern_matching.sc">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/example/Lists.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="44" column="8" selection-start-line="44" selection-start-column="8" selection-end-line="44" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/Lecture1_1/Lecture1_1.sc">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="26" selection-start-line="26" selection-end-line="26" />
+            <state relative-caret-position="673">
+              <caret line="56" lean-forward="true" selection-start-line="56" selection-end-line="56" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/Lecture1_3/Lecture1_3.sc">
+        <entry file="file://$PROJECT_DIR$/src/test/scala/example/ListsSuite.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="276">
-              <caret line="39" column="23" selection-start-line="39" selection-start-column="23" selection-end-line="39" selection-end-column="23" />
+            <state relative-caret-position="295">
+              <caret line="112" column="37" lean-forward="true" selection-start-line="112" selection-start-column="37" selection-end-line="112" selection-end-column="37" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Scala Worksheet" />
-      </list>
-    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
@@ -175,8 +114,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/scala/Lecture1_1/Lecture1_1.sc" />
-        <option value="$PROJECT_DIR$/src/main/scala/Lecture1_3/Lecture1_3.sc" />
+        <option value="$PROJECT_DIR$/src/main/scala/example/Lists.scala" />
+        <option value="$PROJECT_DIR$/src/test/scala/example/ListsSuite.scala" />
       </list>
     </option>
   </component>
@@ -186,10 +125,11 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
+    <option name="x" value="39" />
     <option name="y" value="23" />
     <option name="width" value="1280" />
-    <option name="height" value="709" />
+    <option name="height" value="715" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -198,43 +138,79 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="lectures_assignments" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lectures_assignments" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="b2602c69:ProjectViewProjectNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="lectures_assignments" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lectures_assignments" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="b2602c69:ProjectViewProjectNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="lectures_assignments" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lectures_assignments" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="b2602c69:ProjectViewProjectNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="lectures_assignments" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lectures_assignments" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="b2602c69:ProjectViewProjectNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="scala" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="example" type="b2602c69:ProjectViewProjectNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="example" type="b2602c69:ProjectViewProjectNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="example" type="b2602c69:ProjectViewProjectNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="example" type="b2602c69:ProjectViewProjectNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="example" type="b2602c69:ProjectViewProjectNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546629074644" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -261,18 +237,18 @@
         <entry>
           <key>
             <ExternalProjectPojo>
-              <option name="name" value="lectures_assignments" />
+              <option name="name" value="progfun2-example" />
               <option name="path" value="$PROJECT_DIR$" />
             </ExternalProjectPojo>
           </key>
           <value>
             <list>
               <ExternalProjectPojo>
-                <option name="name" value="lectures_assignments [file:/Users/moussadiakite/Google%20Drive/Training/coursera_scala_specialization/Functional_program_design_in_scala/lectures/lectures_assignments/]" />
+                <option name="name" value="root [file:/Users/moussadiakite/Google%20Drive/Training/coursera_scala_specialization/Functional_program_design_in_scala/assignments/example/]" />
                 <option name="path" value="$PROJECT_DIR$" />
               </ExternalProjectPojo>
               <ExternalProjectPojo>
-                <option name="name" value="lectures_assignments-build [file:/Users/moussadiakite/Google%20Drive/Training/coursera_scala_specialization/Functional_program_design_in_scala/lectures/lectures_assignments/]" />
+                <option name="name" value="root-build [file:/Users/moussadiakite/Google%20Drive/Training/coursera_scala_specialization/Functional_program_design_in_scala/assignments/example/]" />
                 <option name="path" value="$PROJECT_DIR$/project" />
               </ExternalProjectPojo>
             </list>
@@ -282,9 +258,19 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$" value="3092672270000" />
-        <entry key="$PROJECT_DIR$/build.sbt" value="3212004937" />
-        <entry key="$PROJECT_DIR$/project/build.properties" value="2567920773" />
+        <entry key="$PROJECT_DIR$" value="18232914140000" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="3656547494" />
+        <entry key="$PROJECT_DIR$/project/CommonBuild.scala" value="2571602370" />
+        <entry key="$PROJECT_DIR$/project/Courses.scala" value="3825051450" />
+        <entry key="$PROJECT_DIR$/project/GradingFeedback.scala" value="647646337" />
+        <entry key="$PROJECT_DIR$/project/ScalaTestRunner.scala" value="1073251015" />
+        <entry key="$PROJECT_DIR$/project/Settings.scala" value="3896389775" />
+        <entry key="$PROJECT_DIR$/project/StudentBuild.scala" value="2270748580" />
+        <entry key="$PROJECT_DIR$/project/StudentBuildLike.scala" value="1951503120" />
+        <entry key="$PROJECT_DIR$/project/StyleChecker.scala" value="3016454982" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="1075804536" />
+        <entry key="$PROJECT_DIR$/project/buildSettings.sbt" value="2557134551" />
+        <entry key="$PROJECT_DIR$/project/plugins.sbt" value="2764601182" />
       </map>
     </option>
     <option name="projectSyncType">
@@ -294,6 +280,7 @@
         <entry key="$PROJECT_DIR$/../../../../Scala_EPFL/objsets" value="PREVIEW" />
         <entry key="$PROJECT_DIR$/../../../../Scala_EPFL/patmat" value="PREVIEW" />
         <entry key="$PROJECT_DIR$/../../../../Scala_EPFL/recfun" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../Functional program design in scala/lectures/lectures_assignments" value="PREVIEW" />
         <entry key="$PROJECT_DIR$/../../../assignments/forcomp" value="PREVIEW" />
       </map>
     </option>
@@ -303,31 +290,35 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="9955f046-0f11-4380-bfaa-c38d377a1ccf" name="Default Changelist" comment="" />
-      <created>1546336135265</created>
+      <changelist id="10d9642b-d0fe-436b-af2e-56a5cb03422d" name="Default Changelist" comment="" />
+      <created>1546625308898</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1546336135265</updated>
-      <workItem from="1546336136952" duration="2496000" />
-      <workItem from="1546339261908" duration="2354000" />
-      <workItem from="1546343411162" duration="9187000" />
+      <updated>1546625308898</updated>
+      <workItem from="1546625312789" duration="1542000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14037000" />
+    <option name="totallyTimeSpent" value="1542000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="715" extended-state="6" />
+    <frame x="39" y="23" width="1280" height="715" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25767368" />
+      <window_info id="Designer" />
+      <window_info id="Image Layers" />
+      <window_info id="UI Designer" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Capture Tool" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24959612" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Designer" order="2" />
-      <window_info id="Image Layers" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Favorites" order="5" side_tool="true" />
-      <window_info id="Capture Tool" order="6" />
+      <window_info anchor="bottom" id="Build" weight="0.32905295" />
+      <window_info active="true" anchor="bottom" id="sbt-shell-toolwindow" visible="true" weight="0.32905295" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -335,23 +326,17 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Build" order="7" weight="0.32744783" />
-      <window_info anchor="bottom" id="sbt-shell-toolwindow" order="8" weight="0.32905295" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32744783" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32744783" />
-      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="13" show_stripe_button="false" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="sbt" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="right" id="Gradle" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Theme Preview" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="sbt" order="4" />
-      <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="right" id="Maven Projects" order="6" />
-      <window_info anchor="right" id="Database" order="7" />
-      <window_info anchor="right" id="Palette&#9;" order="8" />
-      <window_info anchor="right" id="Theme Preview" order="9" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -361,24 +346,17 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/scala/Lecture1_1/Lecture1_1.sc">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/example/Lists.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        <state relative-caret-position="673">
+          <caret line="56" lean-forward="true" selection-start-line="56" selection-end-line="56" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/recap_functions_and_pattern_matching/recap_functions_and_pattern_matching.sc">
+    <entry file="file://$PROJECT_DIR$/src/test/scala/example/ListsSuite.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="44" column="8" selection-start-line="44" selection-start-column="8" selection-end-line="44" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/Lecture1_3/Lecture1_3.sc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="39" column="23" selection-start-line="39" selection-start-column="23" selection-end-line="39" selection-end-column="23" />
+        <state relative-caret-position="295">
+          <caret line="112" column="37" lean-forward="true" selection-start-line="112" selection-start-column="37" selection-end-line="112" selection-end-column="37" />
         </state>
       </provider>
     </entry>

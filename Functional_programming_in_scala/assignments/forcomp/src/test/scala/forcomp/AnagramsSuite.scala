@@ -75,9 +75,6 @@ class AnagramsSuite extends FunSuite  {
 
   test("sentence anagrams: Linux rulez") {
     val sentence = List("Linux", "rulez")
-    println(combinations(List(('e',1), ('u',1), ('l',1), ('r',1), ('z',1))))
-    //println(sentenceOccurrences(sentence))
-    //println(sentenceAnagrams(List("Linuxrulez")))
     val anas = List(
       List("Rex", "Lin", "Zulu"),
       List("nil", "Zulu", "Rex"),
@@ -100,7 +97,7 @@ class AnagramsSuite extends FunSuite  {
       List("rulez", "Linux"),
       List("Linux", "rulez")
     )
-    //assert(sentenceAnagrams(sentence).toSet === anas.toSet)
+    assert(sentenceAnagrams(sentence).toSet === anas.toSet)
   }
 
 }

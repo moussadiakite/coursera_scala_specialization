@@ -23,9 +23,13 @@ object Lists {
    * @param xs A list of natural numbers
    * @return The sum of all elements in `xs`
    */
+
     def sum(xs: List[Int]): Int = {
-      if (xs.isEmpty) 0
-      else xs.head + sum(xs.tail)
+      def sumHelper(xs: List[Int], acc: Int): Int = xs match {
+        case x::xs => sumHelper(xs, x + acc)
+        case Nil => acc
+      }
+      sumHelper(xs, 0)
     }
   
   /**
@@ -42,12 +46,11 @@ object Lists {
    * @throws java.util.NoSuchElementException if `xs` is an empty list
    */
     def max(xs: List[Int]): Int = {
-      if (xs.isEmpty) throw new java.util.NoSuchElementException()
-      if (xs.tail.isEmpty) xs.head
-      else {
-        val max_tail = max(xs.tail)
-        if (xs.head <= max_tail) xs.head
-        else max_tail
+      def maxHelper(xs: List[Int], max: Int): Int = xs match {
+        case Nil => throw new java.util.NoSuchElementException()
+        case x::Nil => if (x > max) x else max
+        case x::xs => if (x > max) maxHelper(xs, x) else maxHelper(xs, max)
       }
+      maxHelper(xs, Int.MinValue)
     }
   }

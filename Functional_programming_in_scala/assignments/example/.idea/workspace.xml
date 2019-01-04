@@ -1,7 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3d266d2f-e24b-47d2-92fb-0d596d8190f3" name="Default Changelist" comment="" />
+    <list default="true" id="3d266d2f-e24b-47d2-92fb-0d596d8190f3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../Functional_program_design_in_scala/assignments/example/.idea/hydra.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional_program_design_in_scala/assignments/example/.idea/libraries/sbt__junit_junit_4_10_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional_program_design_in_scala/assignments/example/.idea/libraries/sbt__org_hamcrest_hamcrest_core_1_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional_program_design_in_scala/assignments/example/.idea/libraries/sbt__org_scala_lang_modules_scala_parser_combinators_2_11_1_0_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional_program_design_in_scala/assignments/example/.idea/libraries/sbt__org_scala_lang_modules_scala_xml_2_11_1_0_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional_program_design_in_scala/assignments/example/.idea/libraries/sbt__org_scala_lang_scala_library_2_11_12_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional_program_design_in_scala/assignments/example/.idea/libraries/sbt__org_scala_lang_scala_reflect_2_11_12_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional_program_design_in_scala/assignments/example/.idea/libraries/sbt__org_scala_sbt_test_interface_1_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional_program_design_in_scala/assignments/example/.idea/libraries/sbt__org_scalacheck_scalacheck_2_11_1_12_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional_program_design_in_scala/assignments/example/.idea/libraries/sbt__org_scalatest_scalatest_2_11_2_2_4_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional_program_design_in_scala/assignments/example/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional_program_design_in_scala/assignments/example/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional_program_design_in_scala/assignments/example/.idea/modules/progfun2-example.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional_program_design_in_scala/assignments/example/.idea/modules/root-build.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional_program_design_in_scala/assignments/example/.idea/sbt.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional_program_design_in_scala/assignments/example/.idea/scala_compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional_program_design_in_scala/assignments/example/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional_program_design_in_scala/assignments/example/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Functional_program_design_in_scala/lectures/lectures_assignments/.idea/modules/lectures_assignments-build.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Functional_program_design_in_scala/lectures/lectures_assignments/.idea/modules/lectures_assignments-build.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Functional_program_design_in_scala/lectures/lectures_assignments/.idea/modules/lectures_assignments.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Functional_program_design_in_scala/lectures/lectures_assignments/.idea/modules/lectures_assignments.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Functional_program_design_in_scala/lectures/lectures_assignments/.idea/sbt.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Functional_program_design_in_scala/lectures/lectures_assignments/.idea/sbt.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Functional_program_design_in_scala/lectures/lectures_assignments/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Functional_program_design_in_scala/lectures/lectures_assignments/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Functional_program_design_in_scala/lectures/lectures_assignments/src/main/scala/Lecture1_1/Lecture1_1.sc" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Functional_program_design_in_scala/lectures/lectures_assignments/src/main/scala/recap_functions_and_pattern_matching/recap_functions_and_pattern_matching.sc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/progfun1-example.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/progfun1-example.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/root-build.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/root-build.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/example/Lists.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/example/Lists.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forcomp/.idea/modules/progfun1-forcomp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../forcomp/.idea/modules/progfun1-forcomp.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forcomp/.idea/modules/root-build.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../forcomp/.idea/modules/root-build.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forcomp/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../forcomp/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forcomp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../forcomp/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forcomp/src/main/scala/forcomp/Anagrams.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../forcomp/src/main/scala/forcomp/Anagrams.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forcomp/src/test/scala/forcomp/AnagramsSuite.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../forcomp/src/test/scala/forcomp/AnagramsSuite.scala" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/project/project/target/" />
     <ignored path="$PROJECT_DIR$/project/target/" />
@@ -56,6 +91,26 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="-1610919380">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="sbtShell" value="70" />
+          <entry key="scala" value="418" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Scala" value="418" />
+          <entry key="sbtShell" value="70" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
@@ -73,11 +128,11 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/scala/example/Lists.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="283">
-              <caret line="49" column="21" lean-forward="true" selection-start-line="49" selection-start-column="21" selection-end-line="49" selection-end-column="21" />
+            <state relative-caret-position="7">
+              <caret line="38" column="4" selection-start-line="38" selection-start-column="4" selection-end-line="38" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -85,7 +140,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/scala/common/package.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-293">
+            <state relative-caret-position="45">
               <caret line="3" column="15" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
             </state>
           </provider>
@@ -100,16 +155,19 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/scala/example/ListsSuite.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-300">
+            <state relative-caret-position="-503">
               <caret line="74" column="16" selection-start-line="74" selection-start-column="16" selection-end-line="74" selection-end-column="16" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -131,11 +189,15 @@
     <option name="width" value="1280" />
     <option name="height" value="709" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -207,15 +269,13 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545501594614" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="SDKs" />
@@ -235,7 +295,19 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Remote.Debug sbt shell">
+    <configuration name="Debug sbt shell" type="Remote" factoryName="Remote" activateToolWindowBeforeRun="false" singleton="true" temporary="true">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="64497" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="64497" />
+        <option name="LOCAL" value="false" />
+      </RunnerSettings>
+      <method v="2" />
+    </configuration>
     <configuration name="Scala Console" type="ScalaScriptConsoleRunConfiguration" factoryName="Scala Console" temporary="true">
       <module name="progfun1-example" />
       <setting name="vmparams4" value="-Djline.terminal=NONE" />
@@ -245,8 +317,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Scala Console.Scala Console" />
+      <item itemvalue="Remote.Debug sbt shell" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Remote.Debug sbt shell" />
         <item itemvalue="Scala Console.Scala Console" />
       </list>
     </recent_temporary>
@@ -264,11 +341,11 @@
           <value>
             <list>
               <ExternalProjectPojo>
-                <option name="name" value="root [file:/Users/moussadiakite/Google%20Drive/Training/Scala_EPFL/example/]" />
+                <option name="name" value="root [file:/Users/moussadiakite/Google%20Drive/Training/coursera_scala_specialization/Functional_programming_in_scala/assignments/example/]" />
                 <option name="path" value="$PROJECT_DIR$" />
               </ExternalProjectPojo>
               <ExternalProjectPojo>
-                <option name="name" value="root-build [file:/Users/moussadiakite/Google%20Drive/Training/Scala_EPFL/example/]" />
+                <option name="name" value="root-build [file:/Users/moussadiakite/Google%20Drive/Training/coursera_scala_specialization/Functional_programming_in_scala/assignments/example/]" />
                 <option name="path" value="$PROJECT_DIR$/project" />
               </ExternalProjectPojo>
             </list>
@@ -306,17 +383,18 @@
       <workItem from="1543952525402" duration="562000" />
       <workItem from="1544046593689" duration="5335000" />
       <workItem from="1545501080835" duration="737000" />
+      <workItem from="1546625363835" duration="2594000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6634000" />
+    <option name="totallyTimeSpent" value="9228000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="709" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.31663975" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.32148626" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -326,12 +404,12 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32901135" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3987034" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Build" order="7" weight="0.32901135" />
-      <window_info anchor="bottom" id="sbt-shell-toolwindow" order="8" weight="0.32901135" />
+      <window_info active="true" anchor="bottom" id="sbt-shell-toolwindow" order="8" visible="true" weight="0.32901135" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.32901135" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
@@ -374,16 +452,9 @@
     <entry file="file://$PROJECT_DIR$/assignment.sbt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/example/Lists.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="283">
-          <caret line="49" column="21" lean-forward="true" selection-start-line="49" selection-start-column="21" selection-end-line="49" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/common/package.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-293">
+        <state relative-caret-position="45">
           <caret line="3" column="15" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
         </state>
       </provider>
@@ -397,8 +468,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/scala/example/ListsSuite.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-300">
+        <state relative-caret-position="-503">
           <caret line="74" column="16" selection-start-line="74" selection-start-column="16" selection-end-line="74" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/example/Lists.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7">
+          <caret line="38" column="4" selection-start-line="38" selection-start-column="4" selection-end-line="38" selection-end-column="4" />
         </state>
       </provider>
     </entry>

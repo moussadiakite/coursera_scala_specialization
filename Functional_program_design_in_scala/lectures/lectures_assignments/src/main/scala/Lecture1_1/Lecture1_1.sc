@@ -1,50 +1,36 @@
-object JsonRepresentation{
+object exercise{
+  case class Book(title: String, authors: List[String])
 
-  abstract class JSON
+  val books: Set[Book] = Set(
+    Book(title ="Structure and Interpretation of Computer Programs",
+         authors = List("Abelson, Harald", "Sussman, Gerald J")),
+    Book(title ="Introduction to Functional Programming",
+      authors = List("Bird, Richard", "Wadler, Phil")),
+    Book(title ="Effective Java",
+      authors = List("Bloch, Joshua")),
+    Book(title ="Java Puzzlers",
+      authors = List("Bloch, Joshua", "Gafter, Neal")),
+    Book(title ="Programming in Scala",
+      authors = List("Odersky, Martin", "Spoon, Lex", "Venners, Bill"))
+  )
 
-  case class JSeq(elems: List[JSON]) extends JSON
+  for{
+    b <- books
+    a <- b.authors
+    if a startsWith "Bird"
+  } yield a
 
-  case class JObj(bindings: Map[String, JSON]) extends JSON
+  for{
+    b <- books
+    if (b.title indexOf "Program") > 0
+  } yield b
 
-  case class JNum(num: Double) extends JSON
-
-  case class JStr(str: String) extends JSON
-
-  case class JBool(b: Boolean) extends JSON
-
-  case object JNull extends JSON
-
-  def show(json: JSON): String = json match {
-    case JSeq(elems) => "[\n" +
-                        (elems map show).mkString(",\n") +
-                        "\n]"
-    case JObj(bindings) => "{\n" + (for{
-                           (str, json) <- bindings
-                           } yield "\"" + str + "\": " + show(json)).mkString(",\n") +
-                           "\n}"
-    case JNum(num) => num.toString
-    case JStr(str) => "\"" + str + "\""
-    case JBool(b) => b.toString
-    case JNull => "Null"
-  }
-
-  val data = JObj(Map(
-    "firstName" -> JStr("Jonh"),
-    "lastName" -> JStr("Smith"),
-    "address" -> JObj(Map(
-      "streetAddress" -> JStr("21 2nd street"),
-      "state" -> JStr("NY"),
-      "postalCode" -> JNum(10021)
-    )),
-    "phoneNumbers" -> JSeq(List(
-      JObj(Map(
-        "type" -> JStr("home"), "number" -> JStr("212 555-1234")
-      )),
-      JObj(Map(
-        "type" -> JStr("fax"), "number" -> JStr("646 555-4567")
-      ))
-    ))
-  ))
-
-  show(data)
+  for{
+    b1 <- books
+    b2 <- books
+    if b1 != b2
+    a1 <- b1.authors
+    a2 <- b2.authors
+    if a1 == a2
+  } yield a1
 }

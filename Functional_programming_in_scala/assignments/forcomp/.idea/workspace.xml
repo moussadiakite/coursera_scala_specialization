@@ -2,30 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cbc06ebe-b2d6-4456-9d90-57b4efa96427" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/hydra.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__junit_junit_4_10_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_hamcrest_hamcrest_core_1_1_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_modules_scala_parser_combinators_2_11_1_0_4_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_modules_scala_xml_2_11_1_0_2_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_scala_library_2_11_12_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_scala_reflect_2_11_12_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scalatest_scalatest_2_11_2_2_4_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/progfun1-forcomp.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/root-build.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sbt.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../lectures/Lectures_assignements/src/main/scala/Lecture6_4/Lecture6_4.sc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../lectures/Lectures_assignements/src/main/scala/Lecture6_5/Lecture6_5.sc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../objsets/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../objsets/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lectures/Lectures_assignements/.idea/modules/FunctionnalProgrammingPrinciplesInScala.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../lectures/Lectures_assignements/.idea/modules/FunctionnalProgrammingPrinciplesInScala.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lectures/Lectures_assignements/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../lectures/Lectures_assignements/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lectures/Lectures_assignements/build.sbt" beforeDir="false" afterPath="$PROJECT_DIR$/../../lectures/Lectures_assignements/build.sbt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lectures/Lectures_assignements/src/main/scala/Lecture4_6/Lecture4_6.sc" beforeDir="false" afterPath="$PROJECT_DIR$/../../lectures/Lectures_assignements/src/main/scala/Lecture4_6/Lecture4_6.sc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lectures/Lectures_assignements/src/main/scala/Lecture5_5/Lecture5_5.sc" beforeDir="false" afterPath="$PROJECT_DIR$/../../lectures/Lectures_assignements/src/main/scala/Lecture5_5/Lecture5_5.sc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Functional_program_design_in_scala/lectures/lectures_assignments/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Functional_program_design_in_scala/lectures/lectures_assignments/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Functional_program_design_in_scala/lectures/lectures_assignments/src/main/scala/Lecture1_1/Lecture1_1.sc" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Functional_program_design_in_scala/lectures/lectures_assignments/src/main/scala/Lecture1_1/Lecture1_1.sc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/progfun1-forcomp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/progfun1-forcomp.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/root-build.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/root-build.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/project/project/target/" />
@@ -79,14 +61,38 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="794300914">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="sbtShell" value="68" />
+          <entry key="scala" value="539" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Scala" value="539" />
+          <entry key="sbtShell" value="68" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/scala/forcomp/Anagrams.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="310">
-              <caret line="187" column="3" lean-forward="true" selection-start-line="187" selection-start-column="3" selection-end-line="187" selection-end-column="3" />
+            <state relative-caret-position="243">
+              <caret line="189" column="3" selection-start-line="189" selection-start-column="3" selection-end-line="189" selection-end-column="3" />
+              <folding>
+                <element signature="e#17#80#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -94,8 +100,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/scala/forcomp/AnagramsSuite.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="355">
-              <caret line="84" column="28" selection-start-line="84" selection-start-column="28" selection-end-line="84" selection-end-column="28" />
+            <state relative-caret-position="419">
+              <caret line="76" column="41" selection-start-line="76" selection-start-column="41" selection-end-line="76" selection-end-column="41" />
             </state>
           </provider>
         </entry>
@@ -108,7 +114,7 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -126,9 +132,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="640" />
     <option name="y" value="23" />
-    <option name="width" value="1280" />
-    <option name="height" value="709" />
+    <option name="width" value="640" />
+    <option name="height" value="715" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -136,6 +143,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -166,15 +175,13 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546305445660" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/build.sbt" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="SDKs" />
@@ -226,11 +233,11 @@
           <value>
             <list>
               <ExternalProjectPojo>
-                <option name="name" value="root [file:/Users/moussadiakite/Google%20Drive/Training/coursera_scala_specialization/assignments/forcomp/]" />
+                <option name="name" value="root [file:/Users/moussadiakite/Google%20Drive/Training/coursera_scala_specialization/Functional_programming_in_scala/assignments/forcomp/]" />
                 <option name="path" value="$PROJECT_DIR$" />
               </ExternalProjectPojo>
               <ExternalProjectPojo>
-                <option name="name" value="root-build [file:/Users/moussadiakite/Google%20Drive/Training/coursera_scala_specialization/assignments/forcomp/]" />
+                <option name="name" value="root-build [file:/Users/moussadiakite/Google%20Drive/Training/coursera_scala_specialization/Functional_programming_in_scala/assignments/forcomp/]" />
                 <option name="path" value="$PROJECT_DIR$/project" />
               </ExternalProjectPojo>
             </list>
@@ -276,17 +283,17 @@
       <updated>1546100845786</updated>
       <workItem from="1546100849641" duration="835000" />
       <workItem from="1546108471489" duration="25475000" />
+      <workItem from="1546543867499" duration="6574000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26310000" />
+    <option name="totallyTimeSpent" value="32884000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="710" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="23" width="1280" height="715" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2536349" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3263328" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -301,7 +308,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Build" order="7" weight="0.29011345" />
-      <window_info active="true" anchor="bottom" id="sbt-shell-toolwindow" order="8" visible="true" weight="0.2880259" />
+      <window_info active="true" anchor="bottom" id="sbt-shell-toolwindow" order="8" visible="true" weight="0.38202247" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
@@ -356,15 +363,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/forcomp/Anagrams.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="310">
-          <caret line="187" column="3" lean-forward="true" selection-start-line="187" selection-start-column="3" selection-end-line="187" selection-end-column="3" />
+        <state relative-caret-position="243">
+          <caret line="189" column="3" selection-start-line="189" selection-start-column="3" selection-end-line="189" selection-end-column="3" />
+          <folding>
+            <element signature="e#17#80#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/scala/forcomp/AnagramsSuite.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="355">
-          <caret line="84" column="28" selection-start-line="84" selection-start-column="28" selection-end-line="84" selection-end-column="28" />
+        <state relative-caret-position="419">
+          <caret line="76" column="41" selection-start-line="76" selection-start-column="41" selection-end-line="76" selection-end-column="41" />
         </state>
       </provider>
     </entry>

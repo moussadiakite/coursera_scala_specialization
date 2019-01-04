@@ -2,6 +2,8 @@ package forcomp
 
 import forcomp.Anagrams.{dictionaryByOccurrences, wordAnagrams}
 
+import scala.collection.generic.FilterMonadic
+
 
 object Anagrams {
 
@@ -106,7 +108,7 @@ object Anagrams {
       val subCombinations = combinations(tail)
       (subCombinations foldLeft subCombinations) {
         case (acc, occ) => ((1 to nbOcc) foldLeft acc){
-          case (acc, other_nbOcc) => ((character, other_nbOcc) :: occ) :: acc
+          case (acc, other_nbOcc) => ((character, other_nbOcc) :: occ).sorted :: acc
         }
       }
     }
@@ -180,8 +182,8 @@ object Anagrams {
         if dictionaryByOccurrences contains comb
         words = dictionaryByOccurrences(comb)
         rest = subtract(occurrences, comb)
-        _ = println(occurrences + " = " + words + " + " + rest)
-        other_words <- sentenceAnagramsHelper(rest)
+        other_sentences = sentenceAnagramsHelper(rest)
+        other_words <- other_sentences
         word <- words
       } yield word :: other_words
     }
