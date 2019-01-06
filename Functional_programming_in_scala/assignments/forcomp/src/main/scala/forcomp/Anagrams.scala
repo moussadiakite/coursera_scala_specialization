@@ -132,7 +132,7 @@ object Anagrams {
     else occurrences filter(charNbOcc => charNbOcc._1 != character)
   }
 
-  def subtract(x: Occurrences, y: Occurrences): Occurrences = (y foldLeft (x.toMap withDefaultValue 0))(adjust).toList
+  def subtract(x: Occurrences, y: Occurrences): Occurrences = (y foldLeft (x.toMap withDefaultValue 0))(adjust).toList.sorted
 
   /** Returns a list of all anagram sentences of the given sentence.
    *
@@ -174,22 +174,27 @@ object Anagrams {
    *
    *  Note: There is only one anagram of an empty sentence.
    */
-  def sentenceAnagramsHelper(occurrences: Occurrences): List[Sentence] = {
-    if(occurrences.isEmpty) List(List())
+
+  def sentenceAnagramsHelper(occurrences: Occurrences, cache: Map[Occurrences, List[Sentence]]): Map[Occurrences, List[Sentence]] = {
+    if(cache contains occurrences) cache
+    else if(occurrences.isEmpty) {
+      cache + (occurrences -> List(List()))
+    }
     else {
-      for {
+      cache + (occurrences -> (for {
         comb <- combinations(occurrences)
         if dictionaryByOccurrences contains comb
         words = dictionaryByOccurrences(comb)
         rest = subtract(occurrences, comb)
-        other_sentences = sentenceAnagramsHelper(rest)
-        other_words <- other_sentences
+        new_cache = sentenceAnagramsHelper(rest, cache)
+        other_words <- new_cache(rest)
         word <- words
-      } yield word :: other_words
+      } yield word :: other_words))
     }
   }
 
   def sentenceAnagrams(sentence: Sentence): List[Sentence] = {
-    sentenceAnagramsHelper(sentenceOccurrences(sentence))
+    val occurrences = sentenceOccurrences(sentence)
+    sentenceAnagramsHelper(occurrences, Map[Occurrences, List[Sentence]]())(occurrences)
   }
 }

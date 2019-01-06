@@ -2,40 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3d266d2f-e24b-47d2-92fb-0d596d8190f3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../../Functional_program_design_in_scala/assignments/example/.idea/hydra.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Functional_program_design_in_scala/assignments/example/.idea/libraries/sbt__junit_junit_4_10_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Functional_program_design_in_scala/assignments/example/.idea/libraries/sbt__org_hamcrest_hamcrest_core_1_1_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Functional_program_design_in_scala/assignments/example/.idea/libraries/sbt__org_scala_lang_modules_scala_parser_combinators_2_11_1_0_2_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Functional_program_design_in_scala/assignments/example/.idea/libraries/sbt__org_scala_lang_modules_scala_xml_2_11_1_0_2_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Functional_program_design_in_scala/assignments/example/.idea/libraries/sbt__org_scala_lang_scala_library_2_11_12_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Functional_program_design_in_scala/assignments/example/.idea/libraries/sbt__org_scala_lang_scala_reflect_2_11_12_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Functional_program_design_in_scala/assignments/example/.idea/libraries/sbt__org_scala_sbt_test_interface_1_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Functional_program_design_in_scala/assignments/example/.idea/libraries/sbt__org_scalacheck_scalacheck_2_11_1_12_1_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Functional_program_design_in_scala/assignments/example/.idea/libraries/sbt__org_scalatest_scalatest_2_11_2_2_4_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Functional_program_design_in_scala/assignments/example/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Functional_program_design_in_scala/assignments/example/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Functional_program_design_in_scala/assignments/example/.idea/modules/progfun2-example.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Functional_program_design_in_scala/assignments/example/.idea/modules/root-build.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Functional_program_design_in_scala/assignments/example/.idea/sbt.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Functional_program_design_in_scala/assignments/example/.idea/scala_compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Functional_program_design_in_scala/assignments/example/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Functional_program_design_in_scala/assignments/example/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Functional_program_design_in_scala/lectures/lectures_assignments/.idea/modules/lectures_assignments-build.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Functional_program_design_in_scala/lectures/lectures_assignments/.idea/modules/lectures_assignments-build.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Functional_program_design_in_scala/lectures/lectures_assignments/.idea/modules/lectures_assignments.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Functional_program_design_in_scala/lectures/lectures_assignments/.idea/modules/lectures_assignments.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Functional_program_design_in_scala/lectures/lectures_assignments/.idea/sbt.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Functional_program_design_in_scala/lectures/lectures_assignments/.idea/sbt.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Functional_program_design_in_scala/lectures/lectures_assignments/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Functional_program_design_in_scala/lectures/lectures_assignments/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Functional_program_design_in_scala/lectures/lectures_assignments/src/main/scala/Lecture1_1/Lecture1_1.sc" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Functional_program_design_in_scala/lectures/lectures_assignments/src/main/scala/recap_functions_and_pattern_matching/recap_functions_and_pattern_matching.sc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/progfun1-example.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/progfun1-example.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/root-build.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/root-build.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/example/Lists.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/example/Lists.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../forcomp/.idea/modules/progfun1-forcomp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../forcomp/.idea/modules/progfun1-forcomp.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../forcomp/.idea/modules/root-build.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../forcomp/.idea/modules/root-build.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../forcomp/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../forcomp/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../forcomp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../forcomp/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../forcomp/src/main/scala/forcomp/Anagrams.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../forcomp/src/main/scala/forcomp/Anagrams.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../forcomp/src/test/scala/forcomp/AnagramsSuite.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../forcomp/src/test/scala/forcomp/AnagramsSuite.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Functional_program_design_in_scala/assignments/example/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Functional_program_design_in_scala/assignments/example/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/project/project/target/" />
@@ -94,6 +61,7 @@
     <session id="-1610919380">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.6" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
@@ -383,16 +351,15 @@
       <workItem from="1543952525402" duration="562000" />
       <workItem from="1544046593689" duration="5335000" />
       <workItem from="1545501080835" duration="737000" />
-      <workItem from="1546625363835" duration="2594000" />
+      <workItem from="1546625363835" duration="2917000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9228000" />
+    <option name="totallyTimeSpent" value="9551000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="709" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.32148626" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />

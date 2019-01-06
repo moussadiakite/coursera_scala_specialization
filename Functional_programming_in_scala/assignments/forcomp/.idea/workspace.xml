@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cbc06ebe-b2d6-4456-9d90-57b4efa96427" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../Functional_program_design_in_scala/lectures/lectures_assignments/src/main/scala/Lecture2_2/Lecture2_2.sc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Functional_program_design_in_scala/assignments/example/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Functional_program_design_in_scala/assignments/example/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../Functional_program_design_in_scala/lectures/lectures_assignments/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Functional_program_design_in_scala/lectures/lectures_assignments/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Functional_program_design_in_scala/lectures/lectures_assignments/src/main/scala/Lecture1_1/Lecture1_1.sc" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Functional_program_design_in_scala/lectures/lectures_assignments/src/main/scala/Lecture1_1/Lecture1_1.sc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/progfun1-forcomp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/progfun1-forcomp.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/root-build.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/root-build.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../example/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../example/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
@@ -64,32 +63,32 @@
     <session id="794300914">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
-          <entry key="project.open.time.2" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.2" value="2" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="sbtShell" value="68" />
-          <entry key="scala" value="539" />
+          <entry key="sbtShell" value="86" />
+          <entry key="scala" value="873" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Scala" value="539" />
-          <entry key="sbtShell" value="68" />
+          <entry key="Scala" value="873" />
+          <entry key="sbtShell" value="86" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/scala/forcomp/Anagrams.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
-              <caret line="189" column="3" selection-start-line="189" selection-start-column="3" selection-end-line="189" selection-end-column="3" />
+            <state relative-caret-position="248">
+              <caret line="200" lean-forward="true" selection-start-line="200" selection-end-line="200" />
               <folding>
                 <element signature="e#17#80#0" expanded="true" />
               </folding>
@@ -97,10 +96,10 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/scala/forcomp/AnagramsSuite.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="419">
+            <state relative-caret-position="308">
               <caret line="76" column="41" selection-start-line="76" selection-start-column="41" selection-end-line="76" selection-end-column="41" />
             </state>
           </provider>
@@ -120,8 +119,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/main/scala/common/package.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/forcomp/Anagrams.scala" />
         <option value="$PROJECT_DIR$/src/test/scala/forcomp/AnagramsSuite.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/forcomp/Anagrams.scala" />
       </list>
     </option>
   </component>
@@ -131,10 +130,9 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="640" />
+  <component name="ProjectFrameBounds">
     <option name="y" value="23" />
-    <option name="width" value="640" />
+    <option name="width" value="1280" />
     <option name="height" value="715" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -143,7 +141,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
       <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
@@ -171,10 +168,19 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="scala" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="progfun1-forcomp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="forcomp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="forcomp" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -284,16 +290,18 @@
       <workItem from="1546100849641" duration="835000" />
       <workItem from="1546108471489" duration="25475000" />
       <workItem from="1546543867499" duration="6574000" />
+      <workItem from="1546643201988" duration="3156000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32884000" />
+    <option name="totallyTimeSpent" value="36040000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="715" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3263328" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.33117932" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -361,20 +369,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/forcomp/Anagrams.scala">
+    <entry file="file://$PROJECT_DIR$/src/test/scala/forcomp/AnagramsSuite.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="189" column="3" selection-start-line="189" selection-start-column="3" selection-end-line="189" selection-end-column="3" />
-          <folding>
-            <element signature="e#17#80#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="308">
+          <caret line="76" column="41" selection-start-line="76" selection-start-column="41" selection-end-line="76" selection-end-column="41" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/scala/forcomp/AnagramsSuite.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/forcomp/Anagrams.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="419">
-          <caret line="76" column="41" selection-start-line="76" selection-start-column="41" selection-end-line="76" selection-end-column="41" />
+        <state relative-caret-position="248">
+          <caret line="200" lean-forward="true" selection-start-line="200" selection-end-line="200" />
+          <folding>
+            <element signature="e#17#80#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
