@@ -2,7 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3d266d2f-e24b-47d2-92fb-0d596d8190f3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../../Functional_program_design_in_scala/assignments/example/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Functional_program_design_in_scala/assignments/example/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional_program_design_in_scala/assignments/streams/.idea/libraries/sbt__junit_junit_4_10_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional_program_design_in_scala/assignments/streams/.idea/libraries/sbt__org_hamcrest_hamcrest_core_1_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional_program_design_in_scala/assignments/streams/.idea/libraries/sbt__org_scala_lang_modules_scala_parser_combinators_2_11_1_0_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional_program_design_in_scala/assignments/streams/.idea/libraries/sbt__org_scala_lang_modules_scala_xml_2_11_1_0_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional_program_design_in_scala/assignments/streams/.idea/libraries/sbt__org_scala_lang_scala_library_2_11_12_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional_program_design_in_scala/assignments/streams/.idea/libraries/sbt__org_scala_lang_scala_reflect_2_11_12_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional_program_design_in_scala/assignments/streams/.idea/libraries/sbt__org_scala_sbt_test_interface_1_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional_program_design_in_scala/assignments/streams/.idea/libraries/sbt__org_scalacheck_scalacheck_2_11_1_12_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional_program_design_in_scala/assignments/streams/.idea/libraries/sbt__org_scalatest_scalatest_2_11_2_2_4_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional_program_design_in_scala/assignments/streams/.idea/modules/progfun2-streams.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Functional_program_design_in_scala/assignments/streams/.idea/modules/root-build.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Functional_program_design_in_scala/assignments/streams/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Functional_program_design_in_scala/assignments/streams/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Functional_program_design_in_scala/assignments/streams/.idea/modules/streams_9998-build.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Functional_program_design_in_scala/assignments/streams/.idea/modules/streams_9998.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Functional_program_design_in_scala/assignments/streams/.idea/sbt.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Functional_program_design_in_scala/assignments/streams/.idea/sbt.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Functional_program_design_in_scala/assignments/streams/.idea/scala_compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Functional_program_design_in_scala/assignments/streams/.idea/scala_compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Functional_program_design_in_scala/assignments/streams/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Functional_program_design_in_scala/assignments/streams/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Functional_program_design_in_scala/assignments/streams/src/main/scala/streams/GameDef.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Functional_program_design_in_scala/assignments/streams/src/main/scala/streams/GameDef.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Functional_program_design_in_scala/assignments/streams/src/main/scala/streams/Solver.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Functional_program_design_in_scala/assignments/streams/src/main/scala/streams/Solver.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Functional_program_design_in_scala/assignments/streams/src/main/scala/streams/StringParserTerrain.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Functional_program_design_in_scala/assignments/streams/src/main/scala/streams/StringParserTerrain.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Functional_program_design_in_scala/assignments/streams/src/test/scala/streams/BloxorzSuite.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Functional_program_design_in_scala/assignments/streams/src/test/scala/streams/BloxorzSuite.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Functional_program_design_in_scala/lectures/lectures_assignments/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Functional_program_design_in_scala/lectures/lectures_assignments/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Functional_program_design_in_scala/lectures/lectures_assignments/src/main/scala/Lecture2_5/test.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Functional_program_design_in_scala/lectures/lectures_assignments/src/main/scala/Lecture2_5/test.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lectures/lectures_assignments/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../lectures/lectures_assignments/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/project/project/target/" />
@@ -61,9 +84,10 @@
     <session id="-1610919380">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.6" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -99,7 +123,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/scala/example/Lists.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="7">
+            <state relative-caret-position="15">
               <caret line="38" column="4" selection-start-line="38" selection-start-column="4" selection-end-line="38" selection-end-column="4" />
             </state>
           </provider>
@@ -126,7 +150,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/scala/example/ListsSuite.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-503">
+            <state relative-caret-position="1065">
               <caret line="74" column="16" selection-start-line="74" selection-start-column="16" selection-end-line="74" selection-end-column="16" />
             </state>
           </provider>
@@ -165,7 +189,6 @@
     <panes>
       <pane id="Scope" />
       <pane id="AndroidView" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -237,6 +260,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -323,6 +347,7 @@
     </option>
     <option name="modificationStamps">
       <map>
+        <entry key="$PROJECT_DIR$" value="18232913596000" />
         <entry key="$PROJECT_DIR$/build.sbt" value="2315116761" />
         <entry key="$PROJECT_DIR$/project/CommonBuild.scala" value="2571602370" />
         <entry key="$PROJECT_DIR$/project/Courses.scala" value="3825051450" />
@@ -335,6 +360,11 @@
         <entry key="$PROJECT_DIR$/project/build.properties" value="1075804536" />
         <entry key="$PROJECT_DIR$/project/buildSettings.sbt" value="2557134551" />
         <entry key="$PROJECT_DIR$/project/plugins.sbt" value="2764601182" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$" value="RE_IMPORT" />
       </map>
     </option>
   </component>
@@ -352,16 +382,17 @@
       <workItem from="1544046593689" duration="5335000" />
       <workItem from="1545501080835" duration="737000" />
       <workItem from="1546625363835" duration="2917000" />
+      <workItem from="1547230977282" duration="4000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9551000" />
+    <option name="totallyTimeSpent" value="9555000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="709" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.32148626" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3263328" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -435,14 +466,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/scala/example/ListsSuite.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-503">
+        <state relative-caret-position="1065">
           <caret line="74" column="16" selection-start-line="74" selection-start-column="16" selection-end-line="74" selection-end-column="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/example/Lists.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7">
+        <state relative-caret-position="15">
           <caret line="38" column="4" selection-start-line="38" selection-start-column="4" selection-end-line="38" selection-end-column="4" />
         </state>
       </provider>

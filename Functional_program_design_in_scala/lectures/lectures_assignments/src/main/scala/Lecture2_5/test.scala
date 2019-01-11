@@ -1,6 +1,6 @@
 package Lecture2_5
 
-object test extends App{
+object test{
   val problem: Pouring = new Pouring(Vector(4, 7, 3))
 
   /*def until(paths: Stream[problem.Path], target: Int): List[problem.Path] = {

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ScalaCompilerConfiguration">
-    <profile name="sbt 1" modules="streams_9998" />
-    <profile name="sbt 2" modules="progfun2-streams">
+    <profile name="sbt 1" modules="quickcheck_1408" />
+    <profile name="sbt 2" modules="progfun2-quickcheck">
       <option name="deprecationWarnings" value="true" />
     </profile>
   </component>
