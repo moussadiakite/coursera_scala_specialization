@@ -3,8 +3,10 @@
 out/
 *.class
 */*.pages
+*/assignments/*/.idea/**
 */assignments/*/target/**
 */assignments/*/project/**
 */lectures/*.pdf
+*/lectures/lectures_assignments/.idea/**
 */lectures/lectures_assignments/target/**
 */lectures/lectures_assignments/project/**

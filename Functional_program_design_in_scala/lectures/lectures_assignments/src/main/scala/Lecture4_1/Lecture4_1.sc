@@ -54,4 +54,10 @@ object exercise {
   c.totalBalance
   b deposit 30
   c.totalBalance
+
+  try {
+    println("Everything is ok")
+  } finally {
+    println("End")
+  }
 }
