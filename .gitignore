@@ -6,6 +6,7 @@ out/
 */assignments/*/.idea/**
 */assignments/*/target/**
 */assignments/*/project/**
+*/assignments/*/scalastyle/**
 */lectures/*.pdf
 */lectures/lectures_assignments/.idea/**
 */lectures/lectures_assignments/target/**
