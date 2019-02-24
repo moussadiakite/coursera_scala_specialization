@@ -11,3 +11,5 @@ out/
 */lectures/lectures_assignments/.idea/**
 */lectures/lectures_assignments/target/**
 */lectures/lectures_assignments/project/**
+Functional_programming_in_scala_capstone/assignments/observatory/src/main/resources/*.csv
+Functional_programming_in_scala_capstone/assignments/observatory/capstone-ui/target/**
